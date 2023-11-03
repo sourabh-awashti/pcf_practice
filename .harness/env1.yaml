@@ -1,6 +1,12 @@
 environment:
   name: env-1
   identifier: env1
-  accountId: 5PMLsgZkRMy2cWFiM6mv5A
-  orgIdentifier: default
   type: Production
+  orgIdentifier: default
+  variables:
+    - name: vv
+      type: String
+      value: vv
+      description: ""
+      required: false
+  storeType: REMOTE
