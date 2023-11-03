@@ -9,4 +9,9 @@ environment:
       value: vv
       description: ""
       required: false
+    - name: vv
+      type: String
+      value: vv
+      description: ""
+      required: false
   storeType: REMOTE
