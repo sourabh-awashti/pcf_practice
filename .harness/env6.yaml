@@ -9,4 +9,9 @@ environment:
       value: ccc
       description: ""
       required: false
+    - name: cc
+      type: Number
+      value: 34
+      description: ""
+      required: false
   storeType: REMOTE
