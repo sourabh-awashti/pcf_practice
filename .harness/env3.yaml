@@ -3,10 +3,4 @@ environment:
   identifier: env3
   type: Production
   orgIdentifier: default
-  variables:
-    - name: cvc
-      type: String
-      value: cc
-      description: ""
-      required: false
   storeType: REMOTE
