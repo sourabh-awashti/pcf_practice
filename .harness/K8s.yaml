@@ -1,0 +1,7 @@
+environment:
+  name: K8s
+  identifier: K8s
+  accountId: yLH53cCxRtSoYLOQVQrh4A
+  orgIdentifier: default
+  projectIdentifier: test
+  type: Production
