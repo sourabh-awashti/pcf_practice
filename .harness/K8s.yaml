@@ -1,13 +1,14 @@
 environment:
   name: K8s
   identifier: K8s
+  tags: {}
   type: Production
   orgIdentifier: default
   projectIdentifier: test
   variables:
     - name: var2
       type: String
-      value: "grgrgrghrtg"
+      value: ""
       description: remote service
       required: false
   storeType: REMOTE
