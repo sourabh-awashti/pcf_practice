@@ -1,0 +1,6 @@
+environment:
+  name: remote-env-org
+  identifier: remoteenvorg
+  accountId: yLH53cCxRtSoYLOQVQrh4A
+  orgIdentifier: default
+  type: PreProduction
