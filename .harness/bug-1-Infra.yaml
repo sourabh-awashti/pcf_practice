@@ -11,7 +11,7 @@ infrastructureDefinition:
       templateRef: deptemo1
       versionLabel: "1"
     variables:
-      - name: connect
+      - name: connector
         type: Connector
         description: ""
         required: false
