@@ -21,12 +21,6 @@ pipeline:
           execution:
             steps:
               - step:
-                  name: Fetch Instances
-                  identifier: fetchInstances
-                  type: FetchInstanceScript
-                  timeout: 10m
-                  spec: {}
-              - step:
                   type: ShellScript
                   name: ShellScript_1
                   identifier: ShellScript_1
@@ -40,6 +34,12 @@ pipeline:
                     environmentVariables: []
                     outputVariables: []
                   timeout: 10m
+              - step:
+                  name: Fetch Instances
+                  identifier: fetchInstances
+                  type: FetchInstanceScript
+                  timeout: 10m
+                  spec: {}
             rollbackSteps: []
           environment:
             environmentRef: bugenv
