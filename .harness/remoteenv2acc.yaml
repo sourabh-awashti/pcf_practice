@@ -1,0 +1,5 @@
+environment:
+  name: remote-env-2-acc
+  identifier: remoteenv2acc
+  accountId: yLH53cCxRtSoYLOQVQrh4A
+  type: Production
