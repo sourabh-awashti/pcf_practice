@@ -1,3 +1,27 @@
 service:
   name: bug-acc-service
   identifier: bugaccservice
+  serviceDefinition:
+    spec:
+      manifests:
+        - manifest:
+            identifier: m1
+            type: K8sManifest
+            spec:
+              store:
+                type: Github
+                spec:
+                  connectorRef: account.gitsourabh
+                  gitFetchType: Branch
+                  paths:
+                    - main.tf
+                  branch: main
+              skipResourceVersioning: false
+              enableDeclarativeRollback: false
+      variables:
+        - name: var1
+          type: String
+          description: ""
+          required: false
+          value: v11
+    type: Kubernetes
