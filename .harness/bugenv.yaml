@@ -1,0 +1,7 @@
+environment:
+  name: bug-env
+  identifier: bugenv
+  accountId: yLH53cCxRtSoYLOQVQrh4A
+  orgIdentifier: default
+  projectIdentifier: test
+  type: PreProduction
