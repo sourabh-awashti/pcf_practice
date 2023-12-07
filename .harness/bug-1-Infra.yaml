@@ -16,7 +16,7 @@ infrastructureDefinition:
         description: ""
         required: false
         value: account.gitsourabh
-      - name: connector
+      - name: connector1
         type: String
         description: ""
         required: false
