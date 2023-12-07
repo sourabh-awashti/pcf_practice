@@ -6,3 +6,18 @@ environment:
   type: PreProduction
   orgIdentifier: default
   projectIdentifier: test
+  overrides:
+    manifests:
+      - manifest:
+          identifier: dxx
+          type: Values
+          spec:
+            store:
+              type: Github
+              spec:
+                connectorRef: <+input>
+                gitFetchType: Branch
+                paths:
+                  - cc
+                repoName: cc
+                branch: cc
