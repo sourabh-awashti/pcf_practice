@@ -30,7 +30,9 @@ pipeline:
                     source:
                       type: Inline
                       spec:
-                        script: echo <+infra.variables.connect.accountIdentifier>
+                        script: |-
+                          echo <+infra.variables.connect.name>
+                          echo <+env.name>
                     environmentVariables: []
                     outputVariables: []
                   timeout: 10m
