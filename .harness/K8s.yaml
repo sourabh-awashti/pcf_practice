@@ -8,7 +8,7 @@ environment:
   variables:
     - name: var2
       type: String
-      value: ""
+      value: "frgrvrfvrf"
       description: remote service
       required: false
   storeType: REMOTE
