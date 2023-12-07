@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: K8sInfra
+  identifier: K8sInfra
+  orgIdentifier: default
+  projectIdentifier: test
+  environmentRef: K8s
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  spec:
+    connectorRef: K8s
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
