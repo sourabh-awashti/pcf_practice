@@ -1,7 +1,13 @@
 environment:
   name: bug-env
   identifier: bugenv
-  accountId: yLH53cCxRtSoYLOQVQrh4A
+  type: PreProduction
   orgIdentifier: default
   projectIdentifier: test
-  type: PreProduction
+  variables:
+    - name: secret
+      type: Secret
+      value: account.gits
+      description: ""
+      required: false
+  storeType: REMOTE
