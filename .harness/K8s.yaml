@@ -1,7 +1,13 @@
 environment:
   name: K8s
   identifier: K8s
-  accountId: yLH53cCxRtSoYLOQVQrh4A
+  type: Production
   orgIdentifier: default
   projectIdentifier: test
-  type: Production
+  variables:
+    - name: var2
+      type: String
+      value: ""
+      description: ""
+      required: false
+  storeType: REMOTE
