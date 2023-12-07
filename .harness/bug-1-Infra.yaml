@@ -16,4 +16,9 @@ infrastructureDefinition:
         description: ""
         required: false
         value: account.gitsourabh
+      - name: connector
+        type: String
+        description: ""
+        required: false
+        value: account.gitsourabh
   allowSimultaneousDeployments: false
