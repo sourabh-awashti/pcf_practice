@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: remote-infra
+  identifier: remoteinfra
+  orgIdentifier: default
+  projectIdentifier: test
+  environmentRef: remoteenv
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  spec:
+    connectorRef: <+input>
+    namespace: <+input>
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
