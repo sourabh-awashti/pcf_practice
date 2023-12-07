@@ -3,7 +3,7 @@ environment:
   identifier: remoteenv110
   description: ""
   tags: {}
-  type: PreProduction
+  type: Production
   orgIdentifier: default
   projectIdentifier: test
   overrides:
