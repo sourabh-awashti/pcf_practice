@@ -7,7 +7,7 @@ environment:
   variables:
     - name: var2
       type: String
-      value: "String"
-      description: "remote service"
+      value: ""
+      description: remote service
       required: false
   storeType: REMOTE
