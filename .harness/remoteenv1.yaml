@@ -1,5 +1,6 @@
 environment:
-  name: remote-env-1
+  name: remote-env-1-acc
   identifier: remoteenv1
-  accountId: yLH53cCxRtSoYLOQVQrh4A
+  description: ""
+  tags: {}
   type: Production
