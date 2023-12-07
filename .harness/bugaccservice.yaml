@@ -1,0 +1,3 @@
+service:
+  name: bug-acc-service
+  identifier: bugaccservice
