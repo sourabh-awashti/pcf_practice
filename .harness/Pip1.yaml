@@ -33,6 +33,8 @@ pipeline:
                         script: |-
                           echo <+infra.variables.connect.name>
                           echo <+env.name>
+                          echo <+infra.variables.connector.name>
+                          echo <+infra.variables.connector1.name>
                     environmentVariables: []
                     outputVariables: []
                   timeout: 10m
