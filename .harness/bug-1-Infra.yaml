@@ -1,0 +1,19 @@
+infrastructureDefinition:
+  name: Infra
+  identifier: Infra
+  orgIdentifier: default
+  projectIdentifier: test
+  environmentRef: bugenv
+  deploymentType: CustomDeployment
+  type: CustomDeployment
+  spec:
+    customDeploymentRef:
+      templateRef: deptemo1
+      versionLabel: "1"
+    variables:
+      - name: connect
+        type: Connector
+        description: ""
+        required: false
+        value: account.gitsourabh
+  allowSimultaneousDeployments: false
