@@ -1,0 +1,12 @@
+infrastructureDefinition:
+  name: remote-org-infra-1
+  identifier: remoteorginfra1
+  orgIdentifier: default
+  environmentRef: remoteenvorg
+  deploymentType: NativeHelm
+  type: KubernetesDirect
+  spec:
+    connectorRef: <+input>
+    namespace: <+input>
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
