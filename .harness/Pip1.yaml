@@ -17,14 +17,6 @@ pipeline:
             versionLabel: "1"
           service:
             serviceRef: bug1service
-            serviceInputs:
-              serviceDefinition:
-                type: CustomDeployment
-                spec:
-                  artifacts:
-                    primary:
-                      primaryArtifactRef: <+input>
-                      sources: <+input>
             gitBranch: main
           execution:
             steps:
