@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: remote-infra-1
+  identifier: remoteinfra1
+  orgIdentifier: default
+  projectIdentifier: Gitxtest1
+  environmentRef: remoteenv1
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  spec:
+    connectorRef: <+input>
+    namespace: <+input>
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
