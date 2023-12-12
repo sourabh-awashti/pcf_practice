@@ -1,0 +1,7 @@
+environment:
+  name: remote-env-1
+  identifier: remoteenv1
+  accountId: px7xd_BFRCi-pfWPYXVjvw
+  orgIdentifier: default
+  projectIdentifier: Gitxtest1
+  type: PreProduction
