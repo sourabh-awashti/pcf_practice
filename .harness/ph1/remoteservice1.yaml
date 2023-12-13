@@ -3,3 +3,23 @@ service:
   identifier: remoteservice1
   orgIdentifier: default
   projectIdentifier: Gitxtest1
+  serviceDefinition:
+    spec:
+      release:
+        name: release-<+INFRA_KEY_SHORT_ID>
+      manifests:
+        - manifest:
+            identifier: ee
+            type: K8sManifest
+            spec:
+              store:
+                type: Github
+                spec:
+                  connectorRef: <+input>
+                  gitFetchType: Branch
+                  paths:
+                    - ee
+                  branch: ee
+              skipResourceVersioning: false
+              enableDeclarativeRollback: false
+    type: Kubernetes
