@@ -1,0 +1,53 @@
+pipeline:
+  name: pip-2
+  identifier: pip2
+  projectIdentifier: Gitxtest1
+  orgIdentifier: default
+  tags: {}
+  stages:
+    - stage:
+        name: s1
+        identifier: s1
+        description: ""
+        type: Deployment
+        spec:
+          deploymentType: Kubernetes
+          service:
+            serviceRef: serviceremote2
+          environment:
+            environmentRef: env
+            gitBranch: bug-bash-1
+            deployToAll: false
+            infrastructureDefinitions:
+              - identifier: infra
+                inputs:
+                  identifier: infra
+                  type: KubernetesDirect
+                  spec:
+                    connectorRef: <+input>
+                    namespace: <+input>
+          execution:
+            steps:
+              - step:
+                  name: Rollout Deployment
+                  identifier: rolloutDeployment
+                  type: K8sRollingDeploy
+                  timeout: 10m
+                  spec:
+                    skipDryRun: false
+                    pruningEnabled: false
+            rollbackSteps:
+              - step:
+                  name: Rollback Rollout Deployment
+                  identifier: rollbackRolloutDeployment
+                  type: K8sRollingRollback
+                  timeout: 10m
+                  spec:
+                    pruningEnabled: false
+        tags: {}
+        failureStrategies:
+          - onFailure:
+              errors:
+                - AllErrors
+              action:
+                type: StageRollback
