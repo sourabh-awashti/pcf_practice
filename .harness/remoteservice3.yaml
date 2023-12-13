@@ -1,0 +1,5 @@
+service:
+  name: remote-service-3
+  identifier: remoteservice3
+  orgIdentifier: default
+  projectIdentifier: Gitxtest1
