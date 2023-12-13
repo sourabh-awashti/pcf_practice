@@ -1,0 +1,6 @@
+pipeline:
+  name: remote-pip-2
+  identifier: remotepip2
+  projectIdentifier: Gitxtest1
+  orgIdentifier: default
+  tags: {}
