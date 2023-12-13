@@ -1,0 +1,7 @@
+service:
+  name: remote-service-1
+  identifier: remoteservice1
+  serviceDefinition:
+    type: Kubernetes
+    spec: {}
+  gitOpsEnabled: false
