@@ -7,4 +7,10 @@ service:
     spec:
       release:
         name: release-<+INFRA_KEY_SHORT_ID>
+      variables:
+        - name: var1
+          type: String
+          description: ""
+          required: false
+          value: ddd
     type: Kubernetes
