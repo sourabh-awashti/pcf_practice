@@ -1,0 +1,24 @@
+pipeline:
+  name: remote-pip-1
+  identifier: remotepip1
+  projectIdentifier: Gitx
+  orgIdentifier: default
+  tags: {}
+  stages:
+    - stage:
+        name: st1
+        identifier: st1
+        template:
+          templateRef: account.st1
+          versionLabel: "1"
+          templateInputs:
+            type: Deployment
+            spec:
+              environment:
+                environmentRef: <+input>
+                environmentInputs: <+input>
+                serviceOverrideInputs: <+input>
+                infrastructureDefinitions: <+input>
+              service:
+                serviceRef: <+input>
+                serviceInputs: <+input>
