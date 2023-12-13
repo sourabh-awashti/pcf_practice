@@ -3,3 +3,8 @@ service:
   identifier: svc3
   orgIdentifier: default
   projectIdentifier: Gitxtest1
+  serviceDefinition:
+    spec:
+      release:
+        name: release-<+INFRA_KEY_SHORT_ID>
+    type: Kubernetes
