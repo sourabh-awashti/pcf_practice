@@ -1,0 +1,5 @@
+service:
+  name: svc-3
+  identifier: svc3
+  orgIdentifier: default
+  projectIdentifier: Gitxtest1
