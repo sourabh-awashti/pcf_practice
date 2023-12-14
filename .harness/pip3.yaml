@@ -16,7 +16,6 @@ pipeline:
             serviceRef: svc3
           environment:
             environmentRef: envrm
-            gitBranch: bug-bash-2
             deployToAll: false
             infrastructureDefinitions:
               - identifier: infra
