@@ -13,19 +13,14 @@ pipeline:
         spec:
           deploymentType: Kubernetes
           service:
-            serviceRef: serviceremote2
+            serviceRef: <+input>
+            serviceInputs: <+input>
           environment:
-            environmentRef: env
-            gitBranch: bug-bash-1
+            environmentRef: <+input>
             deployToAll: false
-            infrastructureDefinitions:
-              - identifier: infra
-                inputs:
-                  identifier: infra
-                  type: KubernetesDirect
-                  spec:
-                    connectorRef: <+input>
-                    namespace: <+input>
+            environmentInputs: <+input>
+            serviceOverrideInputs: <+input>
+            infrastructureDefinitions: <+input>
           execution:
             steps:
               - step:
