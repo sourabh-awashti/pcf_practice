@@ -1,0 +1,19 @@
+inputSet:
+  name: input-set
+  identifier: inputset
+  orgIdentifier: default
+  projectIdentifier: Gitxtest1
+  pipeline:
+    identifier: pip2
+    stages:
+      - stage:
+          identifier: s1
+          type: Deployment
+          spec:
+            service:
+              serviceRef: bugbash1service
+            environment:
+              environmentRef: <+input>
+              environmentInputs: <+input>
+              serviceOverrideInputs: <+input>
+              infrastructureDefinitions: <+input>
