@@ -1,0 +1,8 @@
+environment:
+  name: envrm-1
+  identifier: envrm1
+  description: ""
+  tags: {}
+  type: Production
+  orgIdentifier: default
+  projectIdentifier: Gitxtest1
