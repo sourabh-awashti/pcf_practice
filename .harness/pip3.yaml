@@ -23,7 +23,6 @@ pipeline:
                   identifier: infra
                   type: KubernetesDirect
                   spec:
-                    connectorRef: <+input>
                     namespace: <+input>
           execution:
             steps:
