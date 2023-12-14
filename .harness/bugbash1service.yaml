@@ -1,0 +1,7 @@
+service:
+  name: bug-bash-1-service
+  identifier: bugbash1service
+  serviceDefinition:
+    type: Kubernetes
+    spec: {}
+  gitOpsEnabled: false
