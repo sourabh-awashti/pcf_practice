@@ -1,0 +1,7 @@
+service:
+  name: rem-12
+  identifier: rem12
+  serviceDefinition:
+    type: Kubernetes
+    spec: {}
+  gitOpsEnabled: false
