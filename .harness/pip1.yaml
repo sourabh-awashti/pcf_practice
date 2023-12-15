@@ -1,0 +1,24 @@
+pipeline:
+  name: pip-1
+  identifier: pip1
+  projectIdentifier: Gitxtest1
+  orgIdentifier: default
+  tags: {}
+  stages:
+    - stage:
+        name: s1
+        identifier: s1
+        tags: {}
+        template:
+          templateRef: st1
+          versionLabel: "1"
+          gitBranch: template-1
+          templateInputs:
+            type: Deployment
+            spec:
+              environment:
+                environmentRef: rmenv1a
+                infrastructureDefinitions:
+                  - identifier: Infra
+              service:
+                serviceRef: rmservice
