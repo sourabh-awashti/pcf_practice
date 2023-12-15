@@ -33,6 +33,7 @@ template:
                   spec:
                     script: |-
                       echo <+serviceVariables.a>
+                      echo <+serviceVariables.var1>
                       echo <+service.name>
                 environmentVariables: []
                 outputVariables: []
