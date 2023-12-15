@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: Infra
+  identifier: Infra
+  orgIdentifier: default
+  projectIdentifier: Gitxtest1
+  environmentRef: rmenv1a
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  spec:
+    connectorRef: account.anup_conn
+    namespace: d
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
