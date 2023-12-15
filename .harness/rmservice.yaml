@@ -13,4 +13,9 @@ service:
           description: ""
           required: false
           value: remote service
+        - name: a
+          type: String
+          description: ""
+          required: false
+          value: a
     type: Kubernetes
