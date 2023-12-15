@@ -1,0 +1,5 @@
+service:
+  name: rm-service
+  identifier: rmservice
+  orgIdentifier: default
+  projectIdentifier: Gitxtest1
