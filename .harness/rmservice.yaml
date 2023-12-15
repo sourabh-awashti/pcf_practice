@@ -12,7 +12,7 @@ service:
           type: String
           description: ""
           required: false
-          value: remoteService
+          value: remote Service
         - name: a
           type: String
           description: ""
