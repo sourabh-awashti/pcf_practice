@@ -32,8 +32,8 @@ template:
                   type: Inline
                   spec:
                     script: |-
-                      echo <+service.variables.var1>
-                      echo <+service.variables>
+                      echo <+serviceVariables.var1>  
+                      echo <+serviceVariables.variables>
                       echo <+service.name>
                 environmentVariables: []
                 outputVariables: []
