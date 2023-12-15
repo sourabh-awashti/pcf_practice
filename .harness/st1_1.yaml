@@ -31,7 +31,9 @@ template:
                 source:
                   type: Inline
                   spec:
-                    script: echo <+service.variables.var>
+                    script: |-
+                      echo <+service.variables.var1>
+                      echo <+service.name>
                 environmentVariables: []
                 outputVariables: []
               timeout: 10m
