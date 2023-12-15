@@ -1,0 +1,7 @@
+service:
+  name: rm-svc-1
+  identifier: rmsvc1
+  serviceDefinition:
+    type: Kubernetes
+    spec: {}
+  gitOpsEnabled: false
