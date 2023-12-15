@@ -1,0 +1,7 @@
+environment:
+  name: rm-env-1-a
+  identifier: rmenv1a
+  accountId: px7xd_BFRCi-pfWPYXVjvw
+  orgIdentifier: default
+  projectIdentifier: Gitxtest1
+  type: PreProduction
