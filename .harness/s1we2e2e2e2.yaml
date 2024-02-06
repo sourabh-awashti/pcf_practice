@@ -3,3 +3,6 @@ service:
   identifier: s1we2e2e2e2
   orgIdentifier: default
   projectIdentifier: TAS
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
