@@ -11,3 +11,8 @@ service:
           required: false
           value: cwfewfcew3f
   gitOpsEnabled: false
+  description: |
+    afsafsfsfds
+  tags:
+    sdfsfewfdsfdsfds: ""
+    afffwf: ""
