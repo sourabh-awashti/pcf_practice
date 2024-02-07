@@ -1,6 +1,8 @@
 service:
   name: svc1-rm
   identifier: svc1rm
+  orgIdentifier: default
+  projectIdentifier: TAS
   serviceDefinition:
     type: Kubernetes
     spec:
