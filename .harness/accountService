@@ -1,1 +1,18 @@
-
+service:
+  name: accSvc
+  identifier: accSvc
+  serviceDefinition:
+    type: Kubernetes
+    spec:
+      variables:
+        - name: var1
+          type: String
+          description: ""
+          required: false
+          value: cwfewfcew3f
+  gitOpsEnabled: false
+  description: |
+    afsafsfsfds
+  tags:
+    sdfsfewfdsfdsfds: ""
+    afffwf: ""
