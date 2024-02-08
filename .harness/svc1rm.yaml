@@ -1,5 +1,5 @@
 service:
-  name: svc1-rm
+  name: svc1-rm-1
   identifier: svc1rm
   orgIdentifier: default
   projectIdentifier: TAS
