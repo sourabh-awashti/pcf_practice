@@ -1,6 +1,6 @@
 service:
   name: accSvc
-  identifier: accSvc1
+  identifier: accSvc2
   serviceDefinition:
     type: Kubernetes
     spec:
