@@ -10,6 +10,21 @@ service:
           description: ""
           required: false
           value: cwfewfcew3f
+      manifests:
+        - manifest:
+            identifier: s
+            type: K8sManifest
+            spec:
+              store:
+                type: Github
+                spec:
+                  connectorRef: account.git
+                  gitFetchType: Branch
+                  paths:
+                    - s
+                  branch: s
+              skipResourceVersioning: false
+              enableDeclarativeRollback: false          
   gitOpsEnabled: false
   description: |
     afsafsfsfds
