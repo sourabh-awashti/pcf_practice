@@ -1,0 +1,7 @@
+environment:
+  name: remote-env
+  identifier: remoteenv
+  accountId: kmpySmUISimoRrJL6NL73w
+  orgIdentifier: default
+  projectIdentifier: TAS
+  type: Production
