@@ -1,0 +1,17 @@
+overrides:
+  manifests:
+    - manifest:
+        identifier: nn
+        type: Values
+        spec:
+          store:
+            spec:
+              connectorRef: account.git
+              gitFetchType: Branch
+              branch: nn
+              commitId: null
+              paths:
+                - hh
+              folderPath: null
+              repoName: null
+            type: Github
