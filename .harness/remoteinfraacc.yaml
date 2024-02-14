@@ -1,0 +1,11 @@
+infrastructureDefinition:
+  name: remote-infra-acc
+  identifier: remoteinfraacc
+  environmentRef: remoteenv
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  spec:
+    connectorRef: <+input>
+    namespace: ss
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
