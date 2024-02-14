@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: remote-infra-22
+  identifier: remoteinfra22
+  orgIdentifier: default
+  projectIdentifier: prj1
+  environmentRef: remoteenv
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  spec:
+    connectorRef: account.c
+    namespace: ddx
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
