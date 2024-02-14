@@ -3,3 +3,6 @@ service:
   identifier: remotesvc
   orgIdentifier: default
   projectIdentifier: prj1
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
