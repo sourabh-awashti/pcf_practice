@@ -1,0 +1,3 @@
+service:
+  name: remote-svc-acc
+  identifier: remotesvcacc
