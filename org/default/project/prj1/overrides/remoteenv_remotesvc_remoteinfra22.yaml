@@ -1,0 +1,29 @@
+overrides:
+  configFiles:
+    - configFile:
+        identifier: cc
+        spec:
+          store:
+            spec:
+              connectorRef: account.git
+              gitFetchType: Branch
+              branch: cc
+              commitId: null
+              paths:
+                - cxxc
+              folderPath: null
+              repoName: null
+            type: Github
+          configFileAttributeStepParameters:
+            store:
+              type: Github
+              spec:
+                type: Github
+                connectorRef: account.git
+                gitFetchType: Branch
+                branch: cc
+                commitId: null
+                paths:
+                  - cxxc
+                folderPath: null
+                repoName: null
