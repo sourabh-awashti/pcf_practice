@@ -1,0 +1,20 @@
+overrides:
+  manifests:
+    - manifest:
+        identifier: www
+        type: TasManifest
+        spec:
+          store:
+            spec:
+              connectorRef: account.git
+              gitFetchType: Branch
+              branch: ww
+              commitId: null
+              paths:
+                - ww
+              folderPath: null
+              repoName: null
+            type: Github
+          cfCliVersion: V7
+          varsPaths: null
+          autoScalerPath: null
