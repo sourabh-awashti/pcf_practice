@@ -1,0 +1,7 @@
+environment:
+  name: remote-env-33
+  identifier: remoteenv33
+  accountId: kmpySmUISimoRrJL6NL73w
+  orgIdentifier: default
+  projectIdentifier: prj1
+  type: PreProduction
