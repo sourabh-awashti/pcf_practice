@@ -1,0 +1,5 @@
+service:
+  name: remote-svc
+  identifier: remotesvc
+  orgIdentifier: default
+  projectIdentifier: prj1
