@@ -1,0 +1,34 @@
+template:
+  name: pipelinetest11
+  identifier: pipelinetest11
+  versionLabel: "1"
+  type: Pipeline
+  projectIdentifier: DoNotDelete_Hemanth
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  tags: {}
+  spec:
+    stages:
+      - stage:
+          name: hfg
+          identifier: hfg
+          tags: {}
+          template:
+            templateRef: testnew
+            versionLabel: v1
+            gitBranch: bug-bash-3
+      - stage:
+          name: gfd
+          identifier: gfd
+          tags: {}
+          template:
+            templateRef: test33
+            versionLabel: "1"
+            gitBranch: bug-bash-2
+      - stage:
+          name: fd
+          identifier: fd
+          tags: {}
+          template:
+            templateRef: teststage11
+            versionLabel: "1"
+            gitBranch: bug-bash-1
