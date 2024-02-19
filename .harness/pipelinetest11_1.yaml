@@ -32,3 +32,4 @@ template:
             templateRef: teststage11
             versionLabel: "1"
             gitBranch: bug-bash-1
+    allowStageExecutions: true
