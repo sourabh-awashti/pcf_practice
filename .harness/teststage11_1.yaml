@@ -1,0 +1,27 @@
+template:
+  name: teststage11
+  identifier: teststage11
+  versionLabel: "1"
+  type: Stage
+  projectIdentifier: DoNotDelete_Hemanth
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  tags: {}
+  spec:
+    type: Custom
+    spec:
+      execution:
+        steps:
+          - step:
+              type: ShellScript
+              name: ShellScript_1
+              identifier: ShellScript_1
+              spec:
+                shell: Bash
+                executionTarget: {}
+                source:
+                  type: Inline
+                  spec:
+                    script: echo hey
+                environmentVariables: []
+                outputVariables: []
+              timeout: 10m
