@@ -63,4 +63,5 @@ template:
           template:
             templateRef: stage6
             versionLabel: "6"
+            gitBranch: bug-bash-6
     allowStageExecutions: true
