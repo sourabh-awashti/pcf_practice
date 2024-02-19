@@ -1,0 +1,64 @@
+pipeline:
+  name: pipelineWithPIpelineTemp
+  identifier: pipelineWithPIpelineTemp
+  projectIdentifier: DoNotDelete_Hemanth
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  tags: {}
+  stages:
+    - stage:
+        name: hfg
+        identifier: hfg
+        tags: {}
+        template:
+          templateRef: testnew
+          versionLabel: v1
+          gitBranch: bug-bash-3
+    - stage:
+        name: gfd
+        identifier: gfd
+        tags: {}
+        template:
+          templateRef: test33
+          versionLabel: "1"
+          gitBranch: bug-bash-2
+    - stage:
+        name: fd
+        identifier: fd
+        tags: {}
+        template:
+          templateRef: teststage11
+          versionLabel: "1"
+          gitBranch: bug-bash-1
+    - stage:
+        name: g
+        identifier: g
+        tags: {}
+        template:
+          templateRef: stage4
+          versionLabel: "4"
+          gitBranch: bug-bash-4
+    - stage:
+        name: rewrwer
+        identifier: rewrwer
+        tags: {}
+        template:
+          templateRef: stage3
+          versionLabel: "3"
+          gitBranch: bug-bash-3
+    - stage:
+        name: gdr
+        identifier: gdr
+        tags: {}
+        template:
+          templateRef: stage5
+          versionLabel: "5"
+          gitBranch: bug-bash-5
+    - stage:
+        name: gfdg
+        identifier: gfdg
+        tags: {}
+        template:
+          templateRef: stage6
+          versionLabel: "6"
+          gitBranch: bug-bash-6
+  allowStageExecutions: true
