@@ -1,0 +1,24 @@
+template:
+  name: step_template
+  identifier: step_template
+  versionLabel: v1
+  type: Step
+  projectIdentifier: DoNotDelete_Hemanth
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  tags: {}
+  spec:
+    type: ShellScript
+    spec:
+      shell: Bash
+      source:
+        type: Inline
+        spec:
+          script: echo $var1
+      environmentVariables:
+        - name: var1
+          type: String
+          value: <+input>
+      outputVariables: []
+      executionTarget: {}
+      delegateSelectors: []
+    timeout: 10m
