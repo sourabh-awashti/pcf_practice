@@ -1,0 +1,26 @@
+template:
+  name: test15
+  identifier: test15
+  versionLabel: v1
+  type: Stage
+  projectIdentifier: DoNotDelete_Hemanth
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  tags: {}
+  spec:
+    type: Custom
+    spec:
+      execution:
+        steps:
+          - step:
+              name: temo
+              identifier: temo
+              template:
+                templateRef: step_template
+                versionLabel: v1
+                templateInputs:
+                  type: ShellScript
+                  spec:
+                    environmentVariables:
+                      - name: var1
+                        type: String
+                        value: <+input>
