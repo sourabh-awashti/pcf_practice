@@ -1,8 +1,6 @@
 service:
   name: svc1-rm-1
   identifier: svc1m3
-  orgIdentifier: Ng_Pipelines_K8s_Organisations
-  projectIdentifier: DoNotDelete_Tas
   serviceDefinition:
     type: Kubernetes
     spec:
