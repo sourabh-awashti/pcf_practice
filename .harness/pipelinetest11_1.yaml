@@ -32,4 +32,35 @@ template:
             templateRef: teststage11
             versionLabel: "1"
             gitBranch: bug-bash-1
+      - stage:
+          name: g
+          identifier: g
+          tags: {}
+          template:
+            templateRef: stage4
+            versionLabel: "4"
+            gitBranch: bug-bash-4
+      - stage:
+          name: rewrwer
+          identifier: rewrwer
+          tags: {}
+          template:
+            templateRef: stage3
+            versionLabel: "3"
+            gitBranch: bug-bash-3
+      - stage:
+          name: gdr
+          identifier: gdr
+          tags: {}
+          template:
+            templateRef: stage5
+            versionLabel: "5"
+            gitBranch: bug-bash-5
+      - stage:
+          name: gfdg
+          identifier: gfdg
+          tags: {}
+          template:
+            templateRef: stage6
+            versionLabel: "6"
     allowStageExecutions: true
