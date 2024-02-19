@@ -1,0 +1,10 @@
+pipeline:
+  name: pipestagestest
+  identifier: pipestagestest
+  tags: {}
+  template:
+    templateRef: pipelinetest11
+    versionLabel: "1"
+    gitBranch: bug-bash-6
+  projectIdentifier: DoNotDelete_Hemanth
+  orgIdentifier: Pipelines_NonK8s_Org_NG
