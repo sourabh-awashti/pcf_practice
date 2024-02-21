@@ -1,0 +1,34 @@
+pipeline:
+  name: awdw
+  identifier: awdw
+  projectIdentifier: SourabhProject
+  orgIdentifier: default
+  tags: {}
+  stages:
+    - stage:
+        name: 1sw1
+        identifier: sw1
+        description: ""
+        type: Approval
+        spec:
+          execution:
+            steps:
+              - step:
+                  name: qwsw1qs
+                  identifier: qwsw1qs
+                  type: HarnessApproval
+                  timeout: 1d
+                  spec:
+                    approvalMessage: |-
+                      Please review the following information
+                      and approve the pipeline progression
+                    includePipelineExecutionHistory: true
+                    approvers:
+                      minimumCount: 1
+                      disallowPipelineExecutor: false
+                      userGroups:
+                        - account.test_1
+                    isAutoRejectEnabled: false
+                    approverInputs: []
+                    callbackId: ss
+        tags: {}
