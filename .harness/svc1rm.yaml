@@ -1,6 +1,8 @@
 service:
   name: svc1-rm-1
   identifier: svc1m3
+  orgidentifier: default
+  projectIdentifier: SourabhProject
   serviceDefinition:
     type: Kubernetes
     spec:
