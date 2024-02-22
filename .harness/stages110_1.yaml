@@ -1,0 +1,19 @@
+template:
+  name: stages110
+  identifier: stages110
+  versionLabel: "1"
+  type: Stage
+  projectIdentifier: AmitTest
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  tags: {}
+  spec:
+    type: Custom
+    spec:
+      execution:
+        steps:
+          - step:
+              type: Wait
+              name: Wait_1
+              identifier: Wait_1
+              spec:
+                duration: 10m
