@@ -50,7 +50,16 @@ template:
                     type: ShellScript
                     name: ShellScript_1
                     identifier: ShellScript_1
-                    spec: {}
+                    spec:
+                      shell: Bash
+                      executionTarget: {}
+                      source:
+                        type: Inline
+                        spec:
+                          script: echo "hii"
+                      environmentVariables: []
+                      outputVariables: []
+                    timeout: 10m
           tags: {}
           strategy:
             matrix:
