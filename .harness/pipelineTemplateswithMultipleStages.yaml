@@ -1,0 +1,9 @@
+pipeline:
+  name: pipelineTemplateswithMultipleStages
+  identifier: pipelineTemplateswithMultipleStages
+  tags: {}
+  template:
+    templateRef: pt1
+    versionLabel: v1
+  projectIdentifier: AmitTest
+  orgIdentifier: Pipelines_NonK8s_Org_NG
