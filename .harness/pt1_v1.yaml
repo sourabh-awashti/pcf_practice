@@ -33,7 +33,28 @@ template:
           tags: {}
           strategy:
             matrix:
-              test:
+              m:
+                - 1
+                - 2
+                - 3
+                - 4
+      - stage:
+          name: stg2
+          identifier: stg2
+          description: ""
+          type: Custom
+          spec:
+            execution:
+              steps:
+                - step:
+                    type: ShellScript
+                    name: ShellScript_1
+                    identifier: ShellScript_1
+                    spec: {}
+          tags: {}
+          strategy:
+            matrix:
+              mat:
                 - a
                 - b
                 - c
