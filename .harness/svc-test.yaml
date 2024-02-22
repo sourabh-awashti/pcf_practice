@@ -3,3 +3,8 @@ service:
   identifier: svc
   orgIdentifier: Nishant_Test
   projectIdentifier: Test_Delete
+  serviceDefinition:
+    spec:
+      release:
+        name: release-<+INFRA_KEY_SHORT_ID>
+    type: Kubernetes
