@@ -1,0 +1,10 @@
+pipeline:
+  name: bugbashscalepipeline
+  identifier: bugbashscalepipeline
+  tags: {}
+  template:
+    templateRef: pipelineTemplateTestmainpatch
+    versionLabel: "1"
+    gitBranch: main-patch
+  projectIdentifier: AmitTest
+  orgIdentifier: Pipelines_NonK8s_Org_NG
