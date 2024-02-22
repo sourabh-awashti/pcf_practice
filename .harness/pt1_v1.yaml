@@ -85,3 +85,31 @@ template:
             repeat:
               times: 6
               maxConcurrency: 3
+      - stage:
+          name: stage4
+          identifier: stage4
+          description: ""
+          type: Custom
+          spec:
+            execution:
+              steps:
+                - step:
+                    type: ShellScript
+                    name: ShellScript_1
+                    identifier: ShellScript_1
+                    spec:
+                      shell: Bash
+                      executionTarget: {}
+                      source:
+                        type: Inline
+                        spec:
+                          script: echo "hey!"
+                      environmentVariables: []
+                      outputVariables: []
+                    timeout: 10m
+          tags: {}
+          strategy:
+            matrix:
+              m:
+                - fg
+                - gh
