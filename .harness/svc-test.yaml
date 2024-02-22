@@ -1,0 +1,5 @@
+service:
+  name: svc
+  identifier: svc
+  orgIdentifier: Nishant_Test
+  projectIdentifier: Test_Delete
