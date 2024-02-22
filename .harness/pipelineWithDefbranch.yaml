@@ -1,0 +1,9 @@
+pipeline:
+  name: pipelineWithDefbranch
+  identifier: pipelineWithDefbranch
+  tags: {}
+  template:
+    templateRef: pipelineTemplateInDefBranch
+    versionLabel: "1"
+  projectIdentifier: AmitTest
+  orgIdentifier: Pipelines_NonK8s_Org_NG
