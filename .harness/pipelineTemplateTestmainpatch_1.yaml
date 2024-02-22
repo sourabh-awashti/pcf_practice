@@ -136,3 +136,4 @@ template:
             templateRef: stagesgitx4
             versionLabel: "4"
             gitBranch: gitx-4
+    allowStageExecutions: true
