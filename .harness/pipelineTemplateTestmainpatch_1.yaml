@@ -136,4 +136,20 @@ template:
             templateRef: stagesgitx4
             versionLabel: "4"
             gitBranch: gitx-4
+      - stage:
+          name: trtr
+          identifier: trtr
+          tags: {}
+          template:
+            templateRef: stagesic1
+            versionLabel: "1"
+            gitBranch: lc-1
+      - stage:
+          name: rwerwer
+          identifier: rwerwer
+          tags: {}
+          template:
+            templateRef: stagesic2
+            versionLabel: "2"
+            gitBranch: lc-2
     allowStageExecutions: true
