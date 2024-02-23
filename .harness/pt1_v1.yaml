@@ -38,6 +38,8 @@ template:
                 - 2
                 - 3
                 - 4
+          when:
+            pipelineStatus: Success
       - stage:
           name: stg2
           identifier: stg2
@@ -122,3 +124,4 @@ template:
               m:
                 - fg
                 - gh
+    allowStageExecutions: true
