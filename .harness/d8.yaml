@@ -1,5 +1,5 @@
 service:
-  name: TestAccResourceServiceWithYaml 
+  name: test
   identifier: TestAccResourceServiceWithYaml_scey_
   serviceDefinition:
     spec:
@@ -30,7 +30,7 @@ service:
       variables:
         - name: var1
           type: String
-          value: TestAccResourceServiceWithYaml
+          value: TestAccResourceServiceWithYaml_updated
         - name: var2
           type: String
           value: val2
