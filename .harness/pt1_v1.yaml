@@ -69,6 +69,8 @@ template:
                 - a
                 - b
                 - c
+          when:
+            pipelineStatus: Success
       - stage:
           name: stage3
           identifier: stage3
