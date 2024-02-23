@@ -98,6 +98,8 @@ template:
             repeat:
               times: 6
               maxConcurrency: 3
+          when:
+            pipelineStatus: Success
       - stage:
           name: stage4
           identifier: stage4
