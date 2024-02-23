@@ -128,4 +128,6 @@ template:
               m:
                 - fg
                 - gh
+          when:
+            pipelineStatus: Success
     allowStageExecutions: true
