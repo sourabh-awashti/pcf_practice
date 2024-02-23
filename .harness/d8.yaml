@@ -1,6 +1,8 @@
 service:
   name: test
   identifier: TestAccResourceServiceWithYaml_scey_
+  orgIdentifier: default
+  projectIdentifier: SourabhProject
   serviceDefinition:
     spec:
       manifests:
