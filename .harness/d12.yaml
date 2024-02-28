@@ -1,5 +1,5 @@
 service:
-  name: svc
+  name: svc-update
   identifier: remotesvc2
   serviceDefinition:
     spec:
