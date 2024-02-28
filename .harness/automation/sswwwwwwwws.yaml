@@ -1,0 +1,5 @@
+service:
+  name: sss
+  identifier: sss
+  orgIdentifier: default
+  projectIdentifier: V
