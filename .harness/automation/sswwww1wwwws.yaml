@@ -1,0 +1,5 @@
+service:
+  name: swss
+  identifier: swss
+  orgIdentifier: default
+  projectIdentifier: V
