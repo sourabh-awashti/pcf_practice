@@ -16,7 +16,7 @@ overrides:
               branch: master
               commitId: null
               paths:
-                - path
+                - path-updated
               folderPath: null
               repoName: <+input>
             type: Github
