@@ -16,17 +16,7 @@ overrides:
               branch: master
               commitId: null
               paths:
-                - "files1%[1]s%[2]s"
+                - "files1%[1]s%[2]swqdwdwd"
               folderPath: null
               repoName: <+input>
             type: Github
-  configFiles:
-    - configFile:
-        identifier: configFile1
-        spec:
-          store:
-            spec:
-              files:
-                - <+org.description>
-              secretFiles: null
-            type: Harness
