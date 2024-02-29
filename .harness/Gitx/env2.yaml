@@ -1,0 +1,7 @@
+environment:
+  name: env-2
+  identifier: env2
+  accountId: vRvDt5iuS7uwyGSo8S0biA
+  orgIdentifier: default
+  projectIdentifier: SourabhProject
+  type: Production
