@@ -26,5 +26,3 @@ service:
               skipResourceVersioning: false
               enableDeclarativeRollback: false          
   gitOpsEnabled: false
-  description: |
-    afsafsfsfds
