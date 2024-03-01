@@ -1,0 +1,32 @@
+overrides:
+  variables:
+    - name: v1
+      type: String
+      value: val1
+      required: false
+  manifests:
+    - manifest:
+        identifier: manifest1
+        type: Values
+        spec:
+          store:
+            spec:
+              connectorRef: <+input>
+              gitFetchType: Branch
+              branch: master
+              commitId: null
+              paths:
+                - files1
+              folderPath: null
+              repoName: <+input>
+            type: Github
+  configFiles:
+    - configFile:
+        identifier: configFile1
+        spec:
+          store:
+            spec:
+              files:
+                - <+org.description>
+              secretFiles: null
+            type: Harness
