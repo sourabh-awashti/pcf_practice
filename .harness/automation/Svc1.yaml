@@ -1,0 +1,9 @@
+service:
+  name: SvcRemote1
+  identifier: SvcRemote1
+  serviceDefinition:
+    type: Kubernetes
+    spec: {}
+  gitOpsEnabled: false
+  orgIdentifier: Ng_Pipelines_K8s_Organisations
+  projectIdentifier: DoNotDelete_Tas
