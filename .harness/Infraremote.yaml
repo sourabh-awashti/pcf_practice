@@ -1,0 +1,14 @@
+infrastructureDefinition:
+  name: Infra-remote
+  identifier: Infraremote
+  orgIdentifier: default
+  projectIdentifier: TAS
+  environmentRef: remoteenv
+  deploymentType: CustomDeployment
+  type: CustomDeployment
+  spec:
+    customDeploymentRef:
+      templateRef: Deploymenttemplate1
+      versionLabel: "1"
+    variables: []
+  allowSimultaneousDeployments: true
