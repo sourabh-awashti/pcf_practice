@@ -8,15 +8,4 @@ infrastructureDefinition:
     customDeploymentRef:
       templateRef: account.acctemp
       versionLabel: "1"
-    variables:
-      - name: s
-        type: String
-        value: s
-        description: ""
-        required: false
-      - name: jnjbv
-        type: String
-        value: k
-        description: ""
-        required: false
   allowSimultaneousDeployments: false
