@@ -8,4 +8,10 @@ infrastructureDefinition:
     customDeploymentRef:
       templateRef: account.acctemp
       versionLabel: "1"
+    variables:
+      - name: newVar
+        type: String
+        value: vvv
+        description: ""
+        required: false
   allowSimultaneousDeployments: false
