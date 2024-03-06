@@ -10,20 +10,4 @@ infrastructureDefinition:
     customDeploymentRef:
       templateRef: Deploymenttemplate1
       versionLabel: "1"
-    variables:
-      - name: x
-        type: String
-        value: x
-        description: ""
-        required: false
-      - name: ddd
-        type: String
-        value: dd
-        description: ""
-        required: false
-      - name: ccvv
-        type: String
-        value: ccvv
-        description: ""
-        required: false
   allowSimultaneousDeployments: true
