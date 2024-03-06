@@ -1,0 +1,12 @@
+infrastructureDefinition:
+  name: Dep-Temp-infra
+  identifier: DepTempinfra
+  environmentRef: remoteenv
+  deploymentType: CustomDeployment
+  type: CustomDeployment
+  spec:
+    customDeploymentRef:
+      templateRef: account.acctemp
+      versionLabel: "1"
+    variables: []
+  allowSimultaneousDeployments: false
