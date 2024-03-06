@@ -10,5 +10,10 @@ infrastructureDefinition:
     customDeploymentRef:
       templateRef: Deploymenttemplate1
       versionLabel: "1"
-    variables: []
+    variables:
+      - name: x
+        type: String
+        value: x
+        description: ""
+        required: false
   allowSimultaneousDeployments: true
