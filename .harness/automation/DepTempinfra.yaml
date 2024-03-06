@@ -14,4 +14,9 @@ infrastructureDefinition:
         value: vvv
         description: ""
         required: false
+      - name: newVar1
+        type: String
+        value: dw2dd
+        description: ""
+        required: false
   allowSimultaneousDeployments: false
