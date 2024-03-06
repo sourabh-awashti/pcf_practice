@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_tNRpst
+  projectIdentifier: TestDataSourceRemoteEnvironment_tNRpst
+  identifier: TestDataSourceRemoteEnvironment_tNRpst
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_tNRpst
+  type: PreProduction
