@@ -21,4 +21,9 @@ infrastructureDefinition:
         value: dd
         description: ""
         required: false
+      - name: ccvv
+        type: String
+        value: ccvv
+        description: ""
+        required: false
   allowSimultaneousDeployments: true
