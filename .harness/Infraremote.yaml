@@ -16,4 +16,9 @@ infrastructureDefinition:
         value: x
         description: ""
         required: false
+      - name: ddd
+        type: String
+        value: dd
+        description: ""
+        required: false
   allowSimultaneousDeployments: true
