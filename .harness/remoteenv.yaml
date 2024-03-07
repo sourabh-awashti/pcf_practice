@@ -1,7 +1,8 @@
 environment:
   name: remote-env
   identifier: remoteenv
-  accountId: kmpySmUISimoRrJL6NL73w
+  tags:
+    rfr: ""
+  type: Production
   orgIdentifier: default
   projectIdentifier: TAS
-  type: Production
