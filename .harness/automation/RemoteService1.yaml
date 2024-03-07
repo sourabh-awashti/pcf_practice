@@ -1,0 +1,5 @@
+service:
+  name: Remote-Service-1
+  identifier: RemoteService1
+  orgIdentifier: default
+  projectIdentifier: TAS
