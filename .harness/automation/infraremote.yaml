@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: infra-remote
+  identifier: infraremote
+  orgIdentifier: default
+  projectIdentifier: TAS
+  environmentRef: remoteenv
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  spec:
+    connectorRef: account.c
+    namespace: d
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
