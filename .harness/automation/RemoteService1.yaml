@@ -3,3 +3,6 @@ service:
   identifier: RemoteService1
   orgIdentifier: default
   projectIdentifier: TAS
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
