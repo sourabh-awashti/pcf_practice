@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_mDzGoz
+  projectIdentifier: TestDataSourceRemoteEnvironment_mDzGoz
+  identifier: TestDataSourceRemoteEnvironment_mDzGoz
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_mDzGoz
+  type: PreProduction
