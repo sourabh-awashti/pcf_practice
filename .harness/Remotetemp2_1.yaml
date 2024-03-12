@@ -1,0 +1,21 @@
+template:
+  name: Remote-temp-2
+  identifier: Remotetemp2
+  versionLabel: "1"
+  type: Step
+  projectIdentifier: Gitx
+  orgIdentifier: default
+  tags: {}
+  spec:
+    timeout: 10m
+    type: ShellScript
+    spec:
+      shell: Bash
+      executionTarget: {}
+      delegateSelectors: []
+      source:
+        type: Inline
+        spec:
+          script: echo "hello"
+      environmentVariables: []
+      outputVariables: []
