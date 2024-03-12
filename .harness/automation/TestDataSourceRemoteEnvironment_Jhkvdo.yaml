@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Jhkvdo
+  projectIdentifier: TestDataSourceRemoteEnvironment_Jhkvdo
+  identifier: TestDataSourceRemoteEnvironment_Jhkvdo
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Jhkvdo
+  type: PreProduction
