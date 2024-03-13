@@ -1,0 +1,7 @@
+environment:
+  name: env
+  identifier: env
+  accountId: LyIlxdGmQ1Cf_KA3EmW--Q
+  orgIdentifier: default_1666106363316
+  projectIdentifier: TestGitX
+  type: Production
