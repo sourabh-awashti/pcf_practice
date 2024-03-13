@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_6BWi7p
+  projectIdentifier: TestDataSourceRemoteEnvironment_6BWi7p
+  identifier: TestDataSourceRemoteEnvironment_6BWi7p
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_6BWi7p
+  type: PreProduction
