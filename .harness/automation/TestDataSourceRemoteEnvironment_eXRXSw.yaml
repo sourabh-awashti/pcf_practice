@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_eXRXSw
+  projectIdentifier: TestDataSourceRemoteEnvironment_eXRXSw
+  identifier: TestDataSourceRemoteEnvironment_eXRXSw
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_eXRXSw
+  type: PreProduction
