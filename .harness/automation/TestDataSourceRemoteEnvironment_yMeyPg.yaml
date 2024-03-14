@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_yMeyPg
+  projectIdentifier: TestDataSourceRemoteEnvironment_yMeyPg
+  identifier: TestDataSourceRemoteEnvironment_yMeyPg
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_yMeyPg
+  type: PreProduction
