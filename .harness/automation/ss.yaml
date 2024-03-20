@@ -1,0 +1,5 @@
+service:
+  name: ss-remote
+  identifier: ssremote
+  orgIdentifier: default
+  projectIdentifier: TAS
