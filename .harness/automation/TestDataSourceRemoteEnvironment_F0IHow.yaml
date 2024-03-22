@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_F0IHow
+  projectIdentifier: TestDataSourceRemoteEnvironment_F0IHow
+  identifier: TestDataSourceRemoteEnvironment_F0IHow
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_F0IHow
+  type: PreProduction
