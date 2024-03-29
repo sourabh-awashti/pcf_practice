@@ -17,5 +17,6 @@ template:
         type: Inline
         spec:
           script: exit 1
+          wddefc: dww
       environmentVariables: []
       outputVariables: []
