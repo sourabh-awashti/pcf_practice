@@ -1,0 +1,30 @@
+pipeline:
+  name: asdc
+  identifier: asdc
+  projectIdentifier: TestPrakharYAMLCDS92687
+  orgIdentifier: default_1666106363316
+  tags: {}
+  stages:
+    - stage:
+        name: stahg
+        identifier: stahg
+        description: ""
+        type: Custom
+        spec:
+          execution:
+            steps:
+              - step:
+                  type: ShellScript
+                  name: ShellScript_1
+                  identifier: ShellScript_1
+                  spec:
+                    shell: Bash
+                    executionTarget: {}
+                    source:
+                      type: Inline
+                      spec:
+                        script: echo hi
+                    environmentVariables: []
+                    outputVariables: []
+                  timeout: 10m
+        tags: {}
