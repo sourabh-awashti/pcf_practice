@@ -48,6 +48,13 @@ pipeline:
                   spec:
                     skipDryRun: false
                     pruningEnabled: false
+              - step:
+                  name: ssss
+                  identifier: ssss
+                  template:
+                    templateRef: Remotetemp2
+                    versionLabel: "1"
+                    gitBranch: main
             rollbackSteps:
               - step:
                   name: Rollback Rollout Deployment
