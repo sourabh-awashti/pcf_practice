@@ -15,7 +15,7 @@ pipeline:
           pipeline: chainedrm1
           project: Gitx
           inputs:
-            identifier: chainedrm1
+            identifier: chainedrsm1
             stages:
               - stage:
                   identifier: s1
