@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_WRmYrX
+  projectIdentifier: TestDataSourceRemoteEnvironment_WRmYrX
+  identifier: TestDataSourceRemoteEnvironment_WRmYrX
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_WRmYrX
+  type: PreProduction
