@@ -13,8 +13,8 @@ pipeline:
         spec:
           deploymentType: Kubernetes
           service:
-            serviceRef: remoteservice1
-            gitBranch: lc-2
+            serviceRef: <+input>
+            serviceInputs: <+input>
           environment:
             environmentRef: <+input>
             deployToAll: false
