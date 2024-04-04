@@ -35,6 +35,13 @@ template:
               template:
                 templateRef: Remotetemp2
                 versionLabel: "1"
+          - step:
+              name: sss
+              identifier: sss
+              template:
+                templateRef: remoteshelltemp
+                versionLabel: "1"
+                gitBranch: bug-bash-1
         rollbackSteps:
           - step:
               name: Rollback Rollout Deployment
