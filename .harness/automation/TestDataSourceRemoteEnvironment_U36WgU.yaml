@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_U36WgU
+  projectIdentifier: TestDataSourceRemoteEnvironment_U36WgU
+  identifier: TestDataSourceRemoteEnvironment_U36WgU
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_U36WgU
+  type: PreProduction
