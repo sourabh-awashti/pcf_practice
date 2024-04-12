@@ -1,5 +1,6 @@
 inputSet:
   name: sssss
+  tags: {}
   identifier: sssss
   orgIdentifier: default
   projectIdentifier: Gitx
@@ -22,3 +23,5 @@ inputSet:
                         serviceInputs: <+input>
                       environment:
                         environmentRef: env
+                        infrastructureDefinitions:
+                          - identifier: <cnwiocnuias>
