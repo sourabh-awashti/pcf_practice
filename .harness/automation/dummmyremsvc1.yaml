@@ -1,0 +1,5 @@
+service:
+  name: rem-svc-1
+  identifier: remsvc1
+  orgIdentifier: default
+  projectIdentifier: Gitx
