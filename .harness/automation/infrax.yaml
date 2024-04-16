@@ -9,5 +9,5 @@ infrastructureDefinition:
   spec:
     connectorRef: account.c
     namespace: s
-    releaseName: release-<+INFRA_KEY_SHORTx_ID>
+    releaseName: release-<+INFRA_KEY_SHORxTx_ID>
   allowSimultaneousDeployments: false
