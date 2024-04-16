@@ -1,5 +1,5 @@
 template:
-  name: Remote-temp-1dddwdwedewd
+  name: Remote-temp-1
   identifier: Remotettttttttemp1
   versionLabel: "1"
   type: Step
@@ -7,8 +7,15 @@ template:
   orgIdentifier: default
   tags: {}
   spec:
-    timeout: 10md3dd2d
-    t
+    timeout: 10m
+    type: ShellScript
+    spec:
+      shell: Bash
+      executionTarget: {}
+      delegateSelectors: []
+      source:
+        type: Inline
+        spec:
           script: echo "hello"
       environmentVariables: []
       outputVariables: []
