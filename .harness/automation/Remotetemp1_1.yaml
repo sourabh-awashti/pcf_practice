@@ -8,14 +8,7 @@ template:
   tags: {}
   spec:
     timeout: 10m
-    type: ShellScriptsss
-    spec:
-      shell: Bash
-      executionTarget: {}
-      delegateSelectors: []
-      source:
-        type: Inline
-        spec:
+    t
           script: echo "hello"
       environmentVariables: []
       outputVariables: []
