@@ -1,0 +1,3 @@
+service:
+  name: TestDataSourceRemoteService_bilCed
+  identifier: TestDataSourceRemoteService_bilCed
