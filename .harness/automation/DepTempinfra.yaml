@@ -1,5 +1,5 @@
 infrastructureDefinition:
-  name: Dep-Temp-infraxxssss
+  name: Dep-Temp-infraxxssssss
   identifier: DepTempinfra
   environmentRef: remoteenv
   deploymentType: CustomDeployment
