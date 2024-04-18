@@ -3,7 +3,7 @@ template:
   identifier: remotestep1
   versionLabel: "1"
   type: Step
-  projectIdentifier: TASacsadwed
+  projectIdentifier: TAS
   orgIdentifier: default
   tags: {}
   spec:
