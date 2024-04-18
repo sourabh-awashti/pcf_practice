@@ -14,7 +14,7 @@ template:
       executionTarget: {}
       delegateSelectors: []
       source:
-        type: Inline
+        type: Inlinewfwefawfafaqwdr
         spec:
           script: exit 1
           wddefc: dww
