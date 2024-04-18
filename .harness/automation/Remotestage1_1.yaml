@@ -1,5 +1,5 @@
 template:
-  name: Remote-stage-1
+  name: Remote-stage-ddd
   identifier: Remotestage1
   versionLabel: "1"
   type: Stage
