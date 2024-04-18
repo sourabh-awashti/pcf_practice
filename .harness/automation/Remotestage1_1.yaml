@@ -1,5 +1,5 @@
 template:
-  name: Remote-stage-dddedede
+  name: temp-1
   identifier: Remotestage1
   versionLabel: "1"
   type: Stage
