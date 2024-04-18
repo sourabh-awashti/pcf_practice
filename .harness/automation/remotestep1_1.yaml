@@ -1,5 +1,5 @@
 template:
-  name: remote-step-1
+  name: remote-step1
   identifier: remotestep1
   versionLabel: "1"
   type: Step
