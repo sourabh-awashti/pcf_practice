@@ -1,5 +1,5 @@
 inputSet:
-  name: sssssevefvefcecec
+  name: sssss
   tags: {}
   identifier: sssss
   orgIdentifier: default
@@ -9,10 +9,10 @@ inputSet:
     stages:
       - stage:
           identifier: ss
-          type: Pipelineecdedwwxw
+          type: Pipelinewcwscc
           spec:
             inputs:
-              identifier: chainedsrsm1
+              identifier: chainedrsm1
               stages:
                 - stage:
                     identifier: s1
@@ -23,7 +23,5 @@ inputSet:
                         serviceInputs: <+input>
                       environment:
                         environmentRef: env
-                        environmentInputs: <+input>
-                        serviceOverrideInputs: <+input>
                         infrastructureDefinitions:
                           - identifier: <cnwiocnuias>
