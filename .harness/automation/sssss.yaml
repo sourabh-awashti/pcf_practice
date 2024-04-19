@@ -9,14 +9,14 @@ inputSet:
     stages:
       - stage:
           identifier: ss
-          type: Pipelinewcwscc
+          type: Pipeline
           spec:
             inputs:
               identifier: chainedrsm1
               stages:
                 - stage:
                     identifier: s1
-                    type: Deploymentwedwdwed
+                    type: Deploymentnnn
                     spec:
                       service:
                         serviceRef: <+input>
