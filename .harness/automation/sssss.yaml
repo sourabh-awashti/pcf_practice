@@ -9,7 +9,7 @@ inputSet:
     stages:
       - stage:
           identifier: ss
-          type: Pipeline
+          type: Pipelineecdedwwxw
           spec:
             inputs:
               identifier: chainedsrsm1
