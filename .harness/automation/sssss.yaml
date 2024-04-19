@@ -3,21 +3,7 @@ inputSet:
   tags: {}
   identifier: sssss
   orgIdentifier: default
-  projectIdentifier: Gitx
-  pipeline:
-    identifier: chainedpip2
-    stages:
-      - stage:
-          identifier: ss
-          type: Pipeline
-          spec:
-            inputs:
-              identifier: chainedrsm1
-              stages:
-                - stage:
-                    identifier: s1
-                    type: Deploymentnnn
-                    spec:
+  projectId
                       service:
                         serviceRef: <+input>
                         serviceInputs: <+input>
