@@ -16,7 +16,7 @@ inputSet:
               stages:
                 - stage:
                     identifier: s1
-                    type: Deployment
+                    type: Deploymentwedwdwed
                     spec:
                       service:
                         serviceRef: <+input>
