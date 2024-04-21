@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_GrlTVL
+  projectIdentifier: TestDataSourceRemoteEnvironment_GrlTVL
+  identifier: TestDataSourceRemoteEnvironment_GrlTVL
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_GrlTVL
+  type: PreProduction
