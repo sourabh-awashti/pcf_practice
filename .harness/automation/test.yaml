@@ -1,5 +1,5 @@
 pipeline:
-  name: test
+  name: testw
   identifier: test
   projectIdentifier: test_freeze
   orgIdentifier: default
