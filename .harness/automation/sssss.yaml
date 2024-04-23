@@ -5,7 +5,7 @@ inputSet:
   orgIdentifier: default
   projectIdentifier: Gitx
   pipeline:
-    identifier: chainedpip2
+    identifier: chainedpip2wcedfee
     stages:
       - stage:
           identifier: ss
