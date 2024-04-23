@@ -5,10 +5,9 @@ inputSet:
   orgIdentifier: default
   projectIdentifier: Gitx
   pipeline:
-    identifier: chainedpip2wcedfee
+    identifier: chainedpip2
     stages:
       - stage:
-          identifier: ss
           spec:
             inputs:
               identifier: chainedsrsm1
