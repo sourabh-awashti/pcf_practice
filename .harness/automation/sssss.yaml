@@ -1,5 +1,5 @@
 inputSet:
-  name: temp
+  name: sssss
   tags: {}
   identifier: sssss
   orgIdentifier: default
@@ -8,5 +8,6 @@ inputSet:
     identifier: chainedpip2
     stages:
       - stage:
-          spec:
-            inputs:
+          identifier: ss
+          type: Pipeline
+          spec: null
