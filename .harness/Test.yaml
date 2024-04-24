@@ -3,3 +3,6 @@ service:
   identifier: Test
   orgIdentifier: Pipelines_NonK8s_Organisation_CDC
   projectIdentifier: CDCNGAuto_ProjDeployment4KUQqasJJG
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
