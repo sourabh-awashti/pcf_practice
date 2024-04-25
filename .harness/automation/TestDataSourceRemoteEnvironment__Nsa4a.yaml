@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment__Nsa4a
+  projectIdentifier: TestDataSourceRemoteEnvironment__Nsa4a
+  identifier: TestDataSourceRemoteEnvironment__Nsa4a
+  tags: {}
+  name: TestDataSourceRemoteEnvironment__Nsa4a
+  type: PreProduction
