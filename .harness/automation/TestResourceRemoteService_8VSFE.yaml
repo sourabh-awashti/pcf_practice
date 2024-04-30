@@ -2,7 +2,7 @@ service:
   name: TestResourceRemoteService
   identifier: TestResourceRemoteService_8VSFE
   orgIdentifier: default
-  projectIdentifier: V
+  projectIdentifier: Vqdqwdqwd
   serviceDefinition:
     spec:
       manifests:
