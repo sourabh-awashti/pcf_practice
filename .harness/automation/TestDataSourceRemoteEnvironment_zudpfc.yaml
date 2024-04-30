@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_zudpfc
+  projectIdentifier: TestDataSourceRemoteEnvironment_zudpfc
+  identifier: TestDataSourceRemoteEnvironment_zudpfc
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_zudpfc
+  type: PreProduction
