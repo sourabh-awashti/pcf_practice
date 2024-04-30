@@ -17,7 +17,7 @@ pipeline:
             serviceInputs: <+input>
           environment:
             environmentRef: <+input>
-            deployToAll: false2w2d2wwdew2dd
+            deployToAll: false2w2d2wwdew2ddd
             environmentInputs: <+input>
             serviceOverrideInputs: <+input>
             infrastructureDefinitions: <+input>
