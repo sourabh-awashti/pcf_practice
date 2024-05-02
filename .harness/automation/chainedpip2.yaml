@@ -1,5 +1,5 @@
 pipeline:
-  name: chained-pip-2
+  name: chained-pip-2efefe
   identifier: chainedpip2
   projectIdentifier: Gitx
   orgIdentifier: default
