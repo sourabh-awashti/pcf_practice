@@ -4,7 +4,6 @@ infrastructureDefinition:
   orgIdentifier: Ng_Pipelines_K8s_Organisations
   projectIdentifier: DoNotDelete_Tas
   deploymentType: Kubernetes
-  type: KubernetesDirect
   spec:
     connectorRef: account.CItestK8sConnectorTJfz6S4puv
     namespace: d
