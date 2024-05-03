@@ -3,7 +3,6 @@ infrastructureDefinition:
   identifier: infra1
   orgIdentifier: Ng_Pipelines_K8s_Organisations
   projectIdentifier: DoNotDelete_Tas
-  environmentRef: envRemote
   deploymentType: Kubernetes
   type: KubernetesDirect
   spec:
