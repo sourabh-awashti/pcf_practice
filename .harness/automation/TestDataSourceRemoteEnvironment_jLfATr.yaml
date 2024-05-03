@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_jLfATr
+  projectIdentifier: TestDataSourceRemoteEnvironment_jLfATr
+  identifier: TestDataSourceRemoteEnvironment_jLfATr
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_jLfATr
+  type: PreProduction
