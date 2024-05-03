@@ -2,7 +2,6 @@ infrastructureDefinition:
   name: infra1
   identifier: infra1
   orgIdentifier: Ng_Pipelines_K8s_Organisations
-  projectIdentifier: DoNotDelete_Tas
   spec:
     connectorRef: account.CItestK8sConnectorTJfz6S4puv
     namespace: d
