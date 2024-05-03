@@ -6,4 +6,3 @@ infrastructureDefinition:
     connectorRef: account.CItestK8sConnectorTJfz6S4puv
     namespace: d
     releaseName: release-<+INFRA_KEY_SHORT_ID>
-  allowSimultaneousDeployments: false
