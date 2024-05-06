@@ -1,5 +1,5 @@
 service:
-  name: ss-remote
+  name: ss-remotewdwd
   identifier: ssremote
   orgIdentifier: default
   projectIdentifier: TAS
