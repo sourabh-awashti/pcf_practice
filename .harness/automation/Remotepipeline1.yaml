@@ -21,16 +21,6 @@ pipeline:
             environmentInputs: <+input>
             serviceOverrideInputs: <+input>
             infrastructureDefinitions: <+input>
-          execution:
-            steps:
-              - step:
-                  name: Rollout Deployment
-                  identifier: rolloutDeployment
-                  type: K8sRollingDeploy
-                  timeout: 10m
-                  spec:
-                    skipDryRun: false
-                    pruningEnabled: false
             rollbackSteps:
               - step:
                   name: Rollback Rollout Deployment
