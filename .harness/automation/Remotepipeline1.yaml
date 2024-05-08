@@ -11,7 +11,7 @@ pipeline:
         description: ""
         type: Deployment
         spec:
-          deploymentType: Kubernetesddd
+          deploymentType: Kubernetes
           service:
             serviceRef: <+input>
             serviceInputs: <+input>
