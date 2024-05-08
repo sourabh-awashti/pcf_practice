@@ -1,7 +1,7 @@
 pipeline:
   name: Remote-pipeline-3
   identifier: Remotepipeline3
-  projectIdentifier: test2dwdewd
+  projectIdentifier: test2
   orgIdentifier: default
   tags: {}
   stages:
@@ -11,6 +11,7 @@ pipeline:
         description: ""
         type: Deployment
         spec:
+          deploymentType: Kubernetes
           service:
             serviceRef: <+input>
             serviceInputs: <+input>
@@ -25,7 +26,7 @@ pipeline:
               - step:
                   name: Rollout Deployment
                   identifier: rolloutDeployment
-                  type: K8sRollingDeploywdwdewdwed
+                  type: K8sRollingDeploy
                   timeout: 10m
                   spec:
                     skipDryRun: false
