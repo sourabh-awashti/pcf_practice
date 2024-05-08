@@ -8,7 +8,6 @@ pipeline:
     - stage:
         name: ss
         identifier: ss
-        description: ""
         type: Pipeline
         spec:
           org: default
