@@ -1,7 +1,6 @@
 pipeline:
   name: Remote-pipeline-3
   identifier: Remotepipeline3
-  projectIdentifier: test2
   orgIdentifier: default
   tags: {}
   stages:
