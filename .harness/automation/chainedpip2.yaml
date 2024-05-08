@@ -8,7 +8,7 @@ pipeline:
     - stage:
         name: ss
         identifier: ss
-        type: Pipeline
+        type: Pipelinecv cv xcv
         spec:
           org: default
           pipeline: chainedrm1
