@@ -2,23 +2,7 @@
   name: chained-pip-2efefe2cwedewdede
   identifier: chainedpip2
   projectIdentifier: Gitx
-  orgIdentifier: default
-  tags: {}
-  stages:
-    - stage:
-        name: ss
-        identifier: ss
-        description: ""
-        type: Pipeline
-        spec:
-          org: default
-          pipeline: chainedrm1
-          project: Gitx
-          inputs:
-            identifier: chainedrsm1
-            stages:
-              - stage:
-                  identifier: s1
+  orgIdentif
                   type: Deployment
                   spec:
                     service:
