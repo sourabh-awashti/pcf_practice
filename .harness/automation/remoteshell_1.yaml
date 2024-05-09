@@ -1,0 +1,21 @@
+template:
+  name: remote-shell
+  identifier: remoteshell
+  versionLabel: "1"
+  type: Step
+  projectIdentifier: Sourabhtest
+  orgIdentifier: default1
+  tags: {}
+  spec:
+    timeout: 10m
+    type: ShellScript
+    spec:
+      shell: Bash
+      executionTarget: {}
+      delegateSelectors: []
+      source:
+        type: Inline
+        spec:
+          script: echo "hello"
+      environmentVariables: []
+      outputVariables: []
