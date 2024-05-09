@@ -1,7 +1,6 @@
 template:
   name: Template-remote-1
   identifier: Templateremote1
-  versionLabel: "1"
   type: Pipeline
   projectIdentifier: Sourabhtest
   orgIdentifier: default1
