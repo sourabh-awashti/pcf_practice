@@ -1,8 +1,8 @@
 template:
   name: Template-remote-1
   identifier: Templateremote1
-  type: Pipeline
   versionLabel: "1"
+  type: Pipeline
   projectIdentifier: Sourabhtest
   orgIdentifier: default1
   tags: {}
@@ -12,7 +12,7 @@ template:
           name: s1
           identifier: s1
           description: ""
-          type: Deploymentqsdqwdsqwd
+          type: Deployment
           spec:
             deploymentType: Kubernetes
             environment:
@@ -29,7 +29,7 @@ template:
                 - step:
                     name: Rollout Deployment
                     identifier: rolloutDeployment
-                    type: K8sRollingDeployhvuvhhbj
+                    type: K8sRollingDeploy
                     timeout: 10m
                     spec:
                       skipDryRun: false
