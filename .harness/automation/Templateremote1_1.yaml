@@ -12,7 +12,7 @@ template:
           name: s1
           identifier: s1
           description: ""
-          type: Deployment
+          type: Deploymentss
           spec:
             deploymentType: Kubernetes
             environment:
