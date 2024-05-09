@@ -2,7 +2,7 @@ template:
   name: Template-remote-1
   identifier: Templateremote1
   type: Pipeline
-  versionLabel: "2"
+  versionLabel: "d33dd"
   projectIdentifier: Sourabhtest
   orgIdentifier: default1
   tags: {}
