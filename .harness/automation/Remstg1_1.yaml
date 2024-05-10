@@ -1,7 +1,7 @@
 template:
   name: Rem-stg-1
   identifier: Remstg1
-  versionLabel: "1"
+  versionLabel: "1s"
   type: Stage
   projectIdentifier: test2
   orgIdentifier: default
