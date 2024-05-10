@@ -28,6 +28,12 @@ template:
               timeout: 10m
               spec:
                 skipDryRun: false
+          - step:
+              name: sssswssss
+              identifier: sssswssss
+              template:
+                templateRef: testtemp1
+                versionLabel: "1"
         rollbackSteps:
           - step:
               name: Rollback Rollout Deployment
