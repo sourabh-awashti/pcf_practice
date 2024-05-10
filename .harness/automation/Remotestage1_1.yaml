@@ -39,7 +39,7 @@ template:
               name: sss
               identifier: sss
               template:
-                templateRef: remoteshelltemp
+                templateRef: remoteshelltempedewdewd
                 versionLabel: "1"
                 gitBranch: bug-bash-1
         rollbackSteps:
