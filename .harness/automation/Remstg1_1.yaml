@@ -4,7 +4,7 @@ template:
   versionLabel: "1"
   type: Stage
   projectIdentifier: test2
-  orgIdentifier: defaultddd
+  orgIdentifier: default
   tags: {}
   spec:
     type: Deployment
