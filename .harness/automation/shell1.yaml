@@ -1,7 +1,7 @@
 template:
   name: shell-1
   identifier: shell1
-  versionLabel: "1"
+  versionLabel: "2"
   type: Step
   projectIdentifier: test2
   orgIdentifier: default
