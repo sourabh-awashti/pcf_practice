@@ -1,7 +1,7 @@
 template:
   name: Remote-stage-1
   identifier: Remotestage1
-  versionLabel: "1"
+  versionLabel: "d"
   type: Stage
   projectIdentifier: Gitx
   orgIdentifier: default
@@ -9,7 +9,7 @@ template:
   spec:
     type: Deployment
     spec:
-      deploymentType: Kubernetesdddd
+      deploymentType: Kubernetes
       environment:
         environmentRef: <+input>
         deployToAll: false
