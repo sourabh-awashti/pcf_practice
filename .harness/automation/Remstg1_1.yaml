@@ -24,7 +24,7 @@ template:
           - step:
               name: Rollout Deployment
               identifier: rolloutDeployment
-              type: K8sRollingDeploy
+              type: K8sRollingDeployqwsqwsqw
               timeout: 10m
               spec:
                 skipDryRun: false
