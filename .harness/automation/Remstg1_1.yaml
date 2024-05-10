@@ -28,12 +28,6 @@ template:
               timeout: 10m
               spec:
                 skipDryRun: false
-          - step:
-              name: sss
-              identifier: sss
-              template:
-                templateRef: shell1remote
-                versionLabel: "1"
         rollbackSteps:
           - step:
               name: Rollback Rollout Deployment
