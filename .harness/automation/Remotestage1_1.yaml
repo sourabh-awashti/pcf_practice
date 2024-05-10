@@ -1,5 +1,5 @@
 template:
-  name: temp-12wde23dqcwedewdf
+  name: Remote-stage-1
   identifier: Remotestage1
   versionLabel: "1"
   type: Stage
@@ -35,13 +35,6 @@ template:
               template:
                 templateRef: Remotetemp2
                 versionLabel: "1"
-          - step:
-              name: sss
-              identifier: sss
-              template:
-                templateRef: remoteshelltempedewdewd
-                versionLabel: "1"
-                gitBranch: bug-bash-1
         rollbackSteps:
           - step:
               name: Rollback Rollout Deployment
