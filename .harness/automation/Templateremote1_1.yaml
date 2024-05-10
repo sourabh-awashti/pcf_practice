@@ -14,7 +14,7 @@ template:
           description: ""
           type: Deploymentss
           spec:
-            deploymentType: Kubernetes
+            deploymentType: Kuberneteswefwefr
             environment:
               environmentRef: <+input>
               deployToAll: false
