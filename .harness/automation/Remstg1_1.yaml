@@ -33,7 +33,7 @@ template:
               identifier: sssswssss
               template:
                 templateRef: testtemp1
-                versionLabel: "1w12w12e21"
+                versionLabel: "1"
         rollbackSteps:
           - step:
               name: Rollback Rollout Deployment
