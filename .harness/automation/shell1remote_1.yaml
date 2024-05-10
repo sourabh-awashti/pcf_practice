@@ -1,0 +1,12 @@
+template:
+  name: shell-1-remote
+  identifier: shell1remote
+  versionLabel: "1"
+  type: Step
+  projectIdentifier: test2
+  orgIdentifier: default
+  tags: {}
+  spec:
+    type: K8sDryRun
+    timeout: 10m
+    spec: {}
