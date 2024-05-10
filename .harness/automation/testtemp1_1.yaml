@@ -1,0 +1,14 @@
+template:
+  name: test-temp-1
+  identifier: testtemp1
+  versionLabel: "1"
+  type: Step
+  projectIdentifier: test2
+  orgIdentifier: default
+  tags: {}
+  spec:
+    type: K8sRollingDeploy
+    timeout: 10m
+    spec:
+      skipDryRun: false
+      pruningEnabled: false
