@@ -28,7 +28,6 @@ template:
               timeout: 10m
               spec:
                 skipDryRun: false
-                pruningEnabled: false
           - step:
               name: sss
               identifier: sss
