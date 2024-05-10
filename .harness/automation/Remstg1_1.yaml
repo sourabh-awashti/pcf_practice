@@ -7,7 +7,7 @@ template:
   orgIdentifier: default
   tags: {}
   spec:
-    type: Deployment
+    type: Deploymentsss
     spec:
       deploymentType: Kubernetes
       environment:
