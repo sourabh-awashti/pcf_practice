@@ -9,7 +9,7 @@ template:
   spec:
     type: Deployment
     spec:
-      deploymentType: Kubernetes
+      deploymentType: Kubernetesdddd
       environment:
         environmentRef: <+input>
         deployToAll: false
