@@ -1,0 +1,22 @@
+template:
+  name: shell-1
+  identifier: shell1
+  versionLabel: "1"
+  type: Step
+  projectIdentifier: test2
+  orgIdentifier: default
+  tags: {}
+  spec:
+    timeout: 10m
+    type: Command
+    spec:
+      onDelegate: false
+      environmentVariables: []
+      outputVariables: []
+      commandUnits:
+        - identifier: dd
+          name: dd
+          type: Copy
+          spec:
+            sourceType: Artifact
+            destinationPath: dd
