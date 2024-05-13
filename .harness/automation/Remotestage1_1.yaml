@@ -1,7 +1,7 @@
 template:
   name: Remote-stage-1sxwdewfecedcffef
   identifier: Remotestage1
-  versionLabel: "d"
+  versionLabel: "1"
   type: Stage
   projectIdentifier: Gitx
   orgIdentifier: default
