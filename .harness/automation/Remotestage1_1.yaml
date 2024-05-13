@@ -33,7 +33,7 @@ template:
               name: ss
               identifier: ss
               template:
-                templateRef: Remotetemp2
+                templateRef: Remotetemp2q
                 versionLabel: "1"
         rollbackSteps:
           - step:
