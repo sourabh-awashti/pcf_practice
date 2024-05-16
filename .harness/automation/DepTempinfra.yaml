@@ -1,4 +1,4 @@
-infrastructureDefinition:
+
   name: Dep-Temp-infraddewdedecss
   identifier: DepTempinfra
   environmentRef: remoteenv
