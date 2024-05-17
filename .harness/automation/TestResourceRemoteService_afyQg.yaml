@@ -1,7 +1,7 @@
 service:
-  name: TestResourceRemoteService
+  name: EFERFEFTestResourceRemoteService
   identifier: TestResourceRemoteService_afyQg
-  orgIdentifier: harness_platform_project.test.org_id
+  orgIdentifierFEIIFEIIFEIIatform_project.test.org_id
   projectIdentifier: harness_platform_project.test.id
   serviceDefinition:
     spec:
