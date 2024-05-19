@@ -1,7 +1,0 @@
-environment:
-  orgIdentifier: TestDataSourceRemoteEnvironment_qm1ouh
-  projectIdentifier: TestDataSourceRemoteEnvironment_qm1ouh
-  identifier: TestDataSourceRemoteEnvironment_qm1ouh
-  tags: {}
-  name: TestDataSourceRemoteEnvironment_qm1ouh
-  type: PreProduction

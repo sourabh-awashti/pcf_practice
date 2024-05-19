@@ -1,5 +1,5 @@
 service:
-  name: TestResourceRemoteService
+  name: TestResourceRefefemoteService
   identifier: TestResourceRemoteService_HPOkD
   orgIdentifier: harness_platform_project.test.org_id
   projectIdentifier: harness_platform_project.test.id
