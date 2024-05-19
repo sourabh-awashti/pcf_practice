@@ -1,7 +1,0 @@
-environment:
-  orgIdentifier: TestDataSourceRemoteEnvironment_FAI1r_
-  projectIdentifier: TestDataSourceRemoteEnvironment_FAI1r_
-  identifier: TestDataSourceRemoteEnvironment_FAI1r_
-  tags: {}
-  name: TestDataSourceRemoteEnvironment_FAI1r_qer23r
-  type: PreProduction
