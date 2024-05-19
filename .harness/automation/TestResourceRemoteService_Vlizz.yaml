@@ -1,5 +1,5 @@
 service:
-  name: TestResourceRemoteService
+  name: Tesrf3f3ertResourceRemoteService
   identifier: TestResourceRemoteService_Vlizz
   orgIdentifier: harness_platform_project.test.org_id
   projectIdentifier: harness_platform_project.test.id
