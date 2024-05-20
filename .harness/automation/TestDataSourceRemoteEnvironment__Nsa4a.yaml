@@ -3,5 +3,5 @@ environment:
   projectIdentifier: TestDataSourceRemoteEnvironment__Nsa4a
   identifier: TestDataSourceRemoteEnvironment__Nsa4a
   tags: {}
-  name: TestDataSourceRemoteEnvironment__Nsa4a
+  name: TestDataSourceRemoteEn
   type: PreProduction
