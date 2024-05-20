@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_87uDHB
+  projectIdentifier: TestDataSourceRemoteEnvironment_87uDHB
+  identifier: TestDataSourceRemoteEnvironment_87uDHB
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_87uDHB
+  type: PreProduction
