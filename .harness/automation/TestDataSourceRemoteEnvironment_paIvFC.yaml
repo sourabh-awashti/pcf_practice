@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_paIvFC
+  projectIdentifier: TestDataSourceRemoteEnvironment_paIvFC
+  identifier: TestDataSourceRemoteEnvironment_paIvFC
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_paIvFC
+  type: PreProduction
