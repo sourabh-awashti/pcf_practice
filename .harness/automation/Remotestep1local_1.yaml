@@ -16,6 +16,6 @@ template:
       source:
         type: Inline
         spec:
-          script: echo "hello"    dqq2w1q2e   21we1qwdwd2edwdwdqwdqqwdwd
+          script: echo "hello"    dqq2w1q2e   21wewdwdwd
       environmentVariables: []
       outputVariables: []
