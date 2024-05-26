@@ -1,7 +1,0 @@
-environment:
-  orgIdentifier: TestDataSourceRemoteEnvironment_csfoNZ
-  projectIdentifier: TestDataSourceRemoteEnvironment_csfoNZ
-  identifier: TestDataSourceRemoteEnvironment_csfoNZ
-  tags: {}
-  name: TestDataSourceRemoteEnvironment_csfoNZ
-  type: PreProduction
