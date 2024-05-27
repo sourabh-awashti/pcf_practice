@@ -1,6 +1,6 @@
 template:
   name: dwiRemoieegrgrgtete-step-1-local
-  identifier: Remotestep1local
+  identifier: Remotestep1local_1
   versionLabel: "1"
   type: Step
   projectIdentifier: Gitx
