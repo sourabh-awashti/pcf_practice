@@ -1,0 +1,20 @@
+inputSet:
+  name: de2d23
+  identifier: de2d23
+  orgIdentifier: default
+  projectIdentifier: SourabhProject
+  pipeline:
+    identifier: Remotepipe1
+    stages:
+      - stage:
+          identifier: ss
+          type: Deployment
+          spec:
+            service:
+              serviceRef: <+input>
+              serviceInputs: <+input>
+            environment:
+              environmentRef: <+input>
+              environmentInputs: <+input>
+              serviceOverrideInputs: <+input>
+              infrastructureDefinitions: <+input>
