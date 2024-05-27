@@ -4,7 +4,7 @@ inputSet:
   orgIdentifier: default
   projectIdentifier: Gitx
   pipeline:
-    identifier: dummyremo1
+    identifier: dummyremo1-1
     stages:
       - stage:
           identifier: s1
