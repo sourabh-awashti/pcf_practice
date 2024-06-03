@@ -8,7 +8,7 @@ template:
   tags: {}
   spec:
     timeout: 10m
-    type: ShellScript
+    type: ShellScript1sew12ew
     spec:
       shell: Bash
       executionTarget: {}
