@@ -1,0 +1,17 @@
+inputSet:
+  name: Remote-input-set
+  identifier: Remoteinputset
+  orgIdentifier: default
+  projectIdentifier: Gitx
+  pipeline:
+    identifier: dummyremo1
+    stages:
+      - stage:
+          identifier: s1
+          type: Deployment
+          spec:
+            service:
+              serviceRef: remsvc1
+            environment:
+              environmentRef: qasqsdqwsqw
+              infrastructureDefinitions: <+input>
