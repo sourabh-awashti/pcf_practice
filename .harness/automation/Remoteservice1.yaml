@@ -3,3 +3,6 @@ service:
   identifier: Remoteservice1
   orgIdentifier: default
   projectIdentifier: Gitx
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
