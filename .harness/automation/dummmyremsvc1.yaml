@@ -4,11 +4,11 @@ service:
   orgIdentifier: default
   projectIdentifier: Gitx
   serviceDefinition:
-    spe]c:
+    spec:
       manifests:
         - manifest:
             identifier: xqdq
-            type: K8sManifest
+            type: K8sManifestqwdwdwe
             spec:
               store:
                 type: Github
