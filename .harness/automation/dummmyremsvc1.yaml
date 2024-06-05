@@ -3,3 +3,21 @@ service:
   identifier: remsvc1
   orgIdentifier: default
   projectIdentifier: Gitx
+  serviceDefinition:
+    spec:
+      manifests:
+        - manifest:
+            identifier: xqdq
+            type: K8sManifest
+            spec:
+              store:
+                type: Github
+                spec:
+                  connectorRef: account.Gits
+                  gitFetchType: Branch
+                  paths:
+                    - qdqwd
+                  branch: sqdq
+              skipResourceVersioning: false
+              enableDeclarativeRollback: false
+    type: Kubernetes
