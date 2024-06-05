@@ -2,7 +2,7 @@ service:
   name: dcewew-svc-1
   identifier: remsvc1
   orgIdentifier: default
-  projectIdentifier: Gitxwee
+  projectIdentifier: Gitxwees
   serviceDefinition:
     spec:
       manifests:
