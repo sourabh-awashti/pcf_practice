@@ -4,7 +4,7 @@ service:
   orgIdentifier: default
   projectIdentifier: Gitx
   serviceDefinition:
-    spec:
+    spe]c:
       manifests:
         - manifest:
             identifier: xqdq
