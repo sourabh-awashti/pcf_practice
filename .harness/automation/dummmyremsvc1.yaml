@@ -2,13 +2,13 @@ service:
   name: dcewew-svc-1
   identifier: remsvc1
   orgIdentifier: default
-  projectIdentifier: Gitx
+  projectIdentifier: Gitxweeferf
   serviceDefinition:
     spec:
       manifests:
         - manifest:
             identifier: xqdq
-            type: K8sManifestqwdwdwe
+            type: K8sManifest
             spec:
               store:
                 type: Github
