@@ -1,8 +1,6 @@
 service:
   name: dcewew-svc-1
-  identifier: remsvc1
-  orgIdentifier: default
-  projectIdentifier: Gitx
+  identifier: remsvc1`
   serviceDefinition:
     spec:
       manifests:
