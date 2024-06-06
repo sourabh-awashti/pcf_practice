@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Pnltuh
+  projectIdentifier: TestDataSourceRemoteEnvironment_Pnltuh
+  identifier: TestDataSourceRemoteEnvironment_Pnltuh
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Pnltuh
+  type: PreProduction
