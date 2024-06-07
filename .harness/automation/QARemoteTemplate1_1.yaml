@@ -1,5 +1,5 @@
 template:
-  name: QA-Remote-Template-11
+  name: QA-Remote-Template-11b
   identifier: QARemoteTemplate1
   versionLabel: "1"
   type: Step
