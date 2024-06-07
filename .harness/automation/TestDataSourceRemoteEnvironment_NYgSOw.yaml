@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_NYgSOw
+  projectIdentifier: TestDataSourceRemoteEnvironment_NYgSOw
+  identifier: TestDataSourceRemoteEnvironment_NYgSOw
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_NYgSOw
+  type: PreProduction
