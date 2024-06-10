@@ -2,6 +2,6 @@ environment:
   name: LocalRemote-2wwr
   identifier: LocalRemote2
   accountId: kmpySmUISimoRrJL6NL73w
-orgIdentifier: default
-projectIdentifier: Gitx
-type: Production
+  orgIdentifier: default
+  projectIdentifier: Gitx
+  type: Production
