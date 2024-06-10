@@ -1,0 +1,7 @@
+environment:
+  name: Local-remote-1
+  identifier: Localremote1
+  accountId: kmpySmUISimoRrJL6NL73w
+  orgIdentifier: default
+  projectIdentifier: TAS
+  type: Production
