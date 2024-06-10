@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_4olBUD
+  projectIdentifier: TestDataSourceRemoteEnvironment_4olBUD
+  identifier: TestDataSourceRemoteEnvironment_4olBUD
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_4olBUD
+  type: PreProduction
