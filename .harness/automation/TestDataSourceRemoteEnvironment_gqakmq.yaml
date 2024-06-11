@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_gqakmq
+  projectIdentifier: TestDataSourceRemoteEnvironment_gqakmq
+  identifier: TestDataSourceRemoteEnvironment_gqakmq
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_gqakmq
+  type: PreProduction
