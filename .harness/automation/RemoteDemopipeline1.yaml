@@ -11,7 +11,7 @@ pipeline:
         description: ""
         type: Deployment
         spec:
-          deploymentType: Kubernetes
+          deploymentType: Kubernetes-RANDOM  
           service:
             serviceRef: <+input>
             serviceInputs: <+input>
@@ -26,7 +26,7 @@ pipeline:
               - step:
                   name: Rollout Deployment
                   identifier: rolloutDeployment
-                  type: K8sRollingDeploy-RANDOM
+                  type: K8sRollingDeploy
                   timeout: 10m
                   spec:
                     skipDryRun: false
