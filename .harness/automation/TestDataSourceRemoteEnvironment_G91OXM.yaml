@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_G91OXM
+  projectIdentifier: TestDataSourceRemoteEnvironment_G91OXM
+  identifier: TestDataSourceRemoteEnvironment_G91OXM
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_G91OXM
+  type: PreProduction
