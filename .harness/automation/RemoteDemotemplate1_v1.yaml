@@ -33,7 +33,7 @@ template:
               name: s-1
               identifier: s1
               template:
-                templateRef: shell1_random
+                templateRef: shell1
                 versionLabel: "1"
         rollbackSteps:
           - step:
