@@ -1,7 +1,0 @@
-environment:
-  orgIdentifier: TestDataSourceRemoteEnvironment_JnRwmx
-  projectIdentifier: TestDataSourceRemoteEnvironment_JnRwmx
-  identifier: TestDataSourceRemoteEnvironment_JnRwmx
-  tags: {}
-  name: TestDataSourceRemoteEnvironment_JnRwmx
-  type: PreProduction
