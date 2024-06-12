@@ -1,4 +1,4 @@
-
+pipeline:
   name: Remote-Demo-pipeline-1
   identifier: RemoteDemopipeline1
   projectIdentifier: Gitx
