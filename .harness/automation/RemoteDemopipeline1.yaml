@@ -1,4 +1,4 @@
-pipeline:
+
   name: Remote-Demo-pipeline-1
   identifier: RemoteDemopipeline1
   projectIdentifier: Gitx
@@ -11,7 +11,7 @@ pipeline:
         description: ""
         type: Deployment
         spec:
-          deploymentType: Kubernetes-RANDOM  
+          deploymentType: Kubernetes
           service:
             serviceRef: <+input>
             serviceInputs: <+input>
