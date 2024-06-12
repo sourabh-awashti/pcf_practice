@@ -2,7 +2,7 @@ template:
   name: Remote-Demo-template-1_1
   identifier: RemoteDemotemplate1
   versionLabel: v1
-  type: Stage-random
+  type: Stage
   projectIdentifier: Gitx
   orgIdentifier: default
   tags: {}
@@ -33,7 +33,7 @@ template:
               name: s-1
               identifier: s1
               template:
-                templateRef: shell1
+                templateRef: shell1_random
                 versionLabel: "1"
         rollbackSteps:
           - step:
