@@ -31,6 +31,12 @@ pipeline:
                   spec:
                     skipDryRun: false
                     pruningEnabled: false
+              - step:
+                  name: shell-1
+                  identifier: shell1
+                  template:
+                    templateRef: Shell1
+                    versionLabel: "1"
             rollbackSteps:
               - step:
                   name: Rollback Rollout Deployment
