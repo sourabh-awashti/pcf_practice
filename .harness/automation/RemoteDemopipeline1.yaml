@@ -9,7 +9,7 @@ pipeline:
         name: s-1
         identifier: s1
         description: ""
-        type: Deployment
+        type: Deployment-random
         spec:
           deploymentType: Kubernetes
           service:
