@@ -13,7 +13,7 @@ pipeline:
         spec:
           deploymentType: Kubernetes
           service:
-            serviceRef: Inlineservice1
+            serviceRef: Inlineservice2
           environment:
             environmentRef: <+input>
             deployToAll: false
