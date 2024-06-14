@@ -1,12 +1,12 @@
 pipeline:
-  name: Remote-pipeline-2_1
+  name: Remote-pipeline-2_1-1
   identifier: Remotepipeline2
   projectIdentifier: test2
   orgIdentifier: default
   tags: {}
   stages:
     - stage:
-        name: s1
+        name: s1rhrth
         identifier: s1
         description: ""
         type: Deployment
