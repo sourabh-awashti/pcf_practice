@@ -1,0 +1,3 @@
+service:
+  name: TestDataSourceRemoteService_joseFE
+  identifier: TestDataSourceRemoteService_joseFE
