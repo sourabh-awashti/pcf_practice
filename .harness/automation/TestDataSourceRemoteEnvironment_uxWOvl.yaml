@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_uxWOvl
+  projectIdentifier: TestDataSourceRemoteEnvironment_uxWOvl
+  identifier: TestDataSourceRemoteEnvironment_uxWOvl
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_uxWOvl
+  type: PreProduction
