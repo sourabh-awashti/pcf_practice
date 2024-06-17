@@ -1,5 +1,5 @@
 pipeline:
-  name: Dev-rwr32r32rem-1dqe
+  name: Dev-rwr32r32rem_1
   identifier: Devrem1
   projectIdentifier: test
   orgIdentifier: default
