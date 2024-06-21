@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_rFzv_r
+  projectIdentifier: TestDataSourceRemoteEnvironment_rFzv_r
+  identifier: TestDataSourceRemoteEnvironment_rFzv_r
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_rFzv_r
+  type: PreProduction
