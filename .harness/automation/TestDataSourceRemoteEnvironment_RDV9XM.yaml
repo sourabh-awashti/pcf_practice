@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_RDV9XM
+  projectIdentifier: TestDataSourceRemoteEnvironment_RDV9XM
+  identifier: TestDataSourceRemoteEnvironment_RDV9XM
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_RDV9XM
+  type: PreProduction
