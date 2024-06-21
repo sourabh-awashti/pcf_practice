@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_FQR_vf
+  projectIdentifier: TestDataSourceRemoteEnvironment_FQR_vf
+  identifier: TestDataSourceRemoteEnvironment_FQR_vf
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_FQR_vf
+  type: PreProduction
