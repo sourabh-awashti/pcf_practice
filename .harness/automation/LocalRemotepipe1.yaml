@@ -11,7 +11,7 @@ pipeline:
         description: ""
         type: Deployment
         spec:
-          deploymentType: Kubernetessss
+          deploymentType: Kubernetes
           service:
             serviceRef: inlineservice2
           environment:
