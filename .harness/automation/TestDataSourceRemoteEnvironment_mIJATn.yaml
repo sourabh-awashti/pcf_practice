@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_mIJATn
+  projectIdentifier: TestDataSourceRemoteEnvironment_mIJATn
+  identifier: TestDataSourceRemoteEnvironment_mIJATn
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_mIJATn
+  type: PreProduction
