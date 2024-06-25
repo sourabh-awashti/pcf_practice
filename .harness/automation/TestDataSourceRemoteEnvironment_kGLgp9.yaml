@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_kGLgp9
+  projectIdentifier: TestDataSourceRemoteEnvironment_kGLgp9
+  identifier: TestDataSourceRemoteEnvironment_kGLgp9
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_kGLgp9
+  type: PreProduction
