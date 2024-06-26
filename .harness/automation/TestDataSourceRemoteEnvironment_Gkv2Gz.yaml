@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Gkv2Gz
+  projectIdentifier: TestDataSourceRemoteEnvironment_Gkv2Gz
+  identifier: TestDataSourceRemoteEnvironment_Gkv2Gz
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Gkv2Gz
+  type: PreProduction
