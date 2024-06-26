@@ -1,5 +1,5 @@
 pipeline:
-  name: Remote-pipe-1-no-dfewd
+  name: Remote-pipe-1-no
   identifier: Remotepipe1
   projectIdentifier: Gitx
   orgIdentifier: default
