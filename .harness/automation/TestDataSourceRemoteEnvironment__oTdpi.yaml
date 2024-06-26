@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment__oTdpi
+  projectIdentifier: TestDataSourceRemoteEnvironment__oTdpi
+  identifier: TestDataSourceRemoteEnvironment__oTdpi
+  tags: {}
+  name: TestDataSourceRemoteEnvironment__oTdpi
+  type: PreProduction
