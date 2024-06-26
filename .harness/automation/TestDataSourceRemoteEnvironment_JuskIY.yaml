@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_JuskIY
+  projectIdentifier: TestDataSourceRemoteEnvironment_JuskIY
+  identifier: TestDataSourceRemoteEnvironment_JuskIY
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_JuskIY
+  type: PreProduction
