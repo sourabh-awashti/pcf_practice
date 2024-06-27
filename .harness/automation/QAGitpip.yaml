@@ -1,5 +1,5 @@
 pipeline:
-  name: QA-Git-pip-homelander
+  name: QA-Git-pip-name-change
   identifier: QAGitpip
   projectIdentifier: Sourabhtest
   orgIdentifier: default1
