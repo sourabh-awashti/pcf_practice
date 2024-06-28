@@ -1,5 +1,5 @@
 pipeline:
-  name: QA-Git-pip-name-change-1
+  name: QA-Git-pip-name-change-morning
   identifier: QAGitpip
   projectIdentifier: Sourabhtest
   orgIdentifier: default1
