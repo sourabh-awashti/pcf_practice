@@ -1,8 +1,8 @@
 infrastructureDefinition:
   name: Local-infra-1dd
-  identifier: Localinfra1
+  identifier: Localinfra1qsqws
   orgIdentifier: default
-  projectIdentifier: Gitxss
+  projectIdentifier: Gitx
   environmentRef: Localremoteenv1
   deploymentType: Kubernetes
   type: KubernetesDirect
