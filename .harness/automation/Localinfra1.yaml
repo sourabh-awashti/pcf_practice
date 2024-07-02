@@ -3,7 +3,7 @@ infrastructureDefinition:
   identifier: Localinfra1
   orgIdentifier: default
   projectIdentifier: Gitx
-  environmentRef: Localremoteenv1ddd
+  environmentRef: Localremoteenv1
   deploymentType: Kubernetes
   type: KubernetesDirect
   spec:
