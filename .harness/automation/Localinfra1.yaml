@@ -1,6 +1,6 @@
 infrastructureDefinition:
   name: Local-infra-1dd
-  identifier: Localinfra1qsqws
+  identifier: Localinfra1
   orgIdentifier: default
   projectIdentifier: Gitx
   environmentRef: Localremoteenv1
