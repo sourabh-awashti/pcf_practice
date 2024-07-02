@@ -5,7 +5,7 @@ infrastructureDefinition:
   projectIdentifier: Gitx
   environmentRef: Localremoteenv1
   deploymentType: Kubernetes
-  type: KubernetesDirect
+  type: KubernetesDirects
   spec:
     connectorRef: <+input>
     namespace: <+input>
