@@ -1,5 +1,5 @@
 infrastructureDefinition:
-  name: local-acc-infra-1
+  name: local-acc-infra-1qdqwdeqw
   identifier: localaccinfra1
   environmentRef: remoteenvwsss
   deploymentType: Kubernetes
