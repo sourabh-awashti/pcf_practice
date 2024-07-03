@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_M8JS_5
+  projectIdentifier: TestDataSourceRemoteEnvironment_M8JS_5
+  identifier: TestDataSourceRemoteEnvironment_M8JS_5
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_M8JS_5
+  type: PreProduction
