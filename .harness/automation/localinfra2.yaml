@@ -1,5 +1,5 @@
 infrastructureDefinition:
-  name: local-infra-2
+  name: local-infra-w
   identifier: localinfra2
   orgIdentifier: default
   projectIdentifier: Gitx
