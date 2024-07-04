@@ -1,6 +1,6 @@
 infrastructureDefinition:
   name: local-acc-infra-1qdqsqwd
-  identifier: localaccinfra1dqwd
+  identifier: localaccinfra1
   environmentRef: remoteenvwsss
   deploymentType: Kubernetes
   type: KubernetesDirect
