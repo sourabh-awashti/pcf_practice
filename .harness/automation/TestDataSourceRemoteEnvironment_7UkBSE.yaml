@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_7UkBSE
+  projectIdentifier: TestDataSourceRemoteEnvironment_7UkBSE
+  identifier: TestDataSourceRemoteEnvironment_7UkBSE
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_7UkBSE
+  type: PreProduction
