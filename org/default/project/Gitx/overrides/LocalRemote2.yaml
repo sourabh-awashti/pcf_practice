@@ -1,6 +1,6 @@
 overrides:
   variables:
-    - name: vwds
+    - name: vwdsxs
       type: Stringdqd
       value: f
       required: false
