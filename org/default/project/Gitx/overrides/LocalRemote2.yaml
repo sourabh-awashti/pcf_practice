@@ -1,6 +1,6 @@
 overrides:
   variables:
     - name: vwdswswdew
-      type: String
+      type: Stringwdw
       value: f
       required: false
