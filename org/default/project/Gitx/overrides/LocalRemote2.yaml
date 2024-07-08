@@ -4,7 +4,3 @@ overrides:
       type: String
       value: f
       required: false
-    - name: vwdsxs
-      type: String
-      value: f
-      required: false
