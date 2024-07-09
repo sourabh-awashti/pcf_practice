@@ -34,7 +34,7 @@ template:
               identifier: qw
               template:
                 templateRef: loctemp1
-                versionLabel: "1d"
+                versionLabel: "1"
         rollbackSteps:
           - step:
               name: Rollback Rollout Deployment
