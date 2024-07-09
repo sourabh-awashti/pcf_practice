@@ -1,5 +1,5 @@
 pipeline:
-  name: Loc-rem-pip-s
+  name: Loc-rem-pip-sj
   identifier: Locrempip2
   projectIdentifier: Gitx
   orgIdentifier: default
