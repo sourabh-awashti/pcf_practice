@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_xt8ZPl
+  projectIdentifier: TestDataSourceRemoteEnvironment_xt8ZPl
+  identifier: TestDataSourceRemoteEnvironment_xt8ZPl
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_xt8ZPl
+  type: PreProduction
