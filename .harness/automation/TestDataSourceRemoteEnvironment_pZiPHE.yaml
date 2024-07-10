@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_pZiPHE
+  projectIdentifier: TestDataSourceRemoteEnvironment_pZiPHE
+  identifier: TestDataSourceRemoteEnvironment_pZiPHE
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_pZiPHE
+  type: PreProduction
