@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Rnl2Ci
+  projectIdentifier: TestDataSourceRemoteEnvironment_Rnl2Ci
+  identifier: TestDataSourceRemoteEnvironment_Rnl2Ci
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Rnl2Ci
+  type: PreProduction
