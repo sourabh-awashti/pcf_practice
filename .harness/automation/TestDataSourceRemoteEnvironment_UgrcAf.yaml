@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_UgrcAf
+  projectIdentifier: TestDataSourceRemoteEnvironment_UgrcAf
+  identifier: TestDataSourceRemoteEnvironment_UgrcAf
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_UgrcAf
+  type: PreProduction
