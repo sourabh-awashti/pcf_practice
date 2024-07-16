@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_88vipB
+  projectIdentifier: TestDataSourceRemoteEnvironment_88vipB
+  identifier: TestDataSourceRemoteEnvironment_88vipB
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_88vipB
+  type: PreProduction
