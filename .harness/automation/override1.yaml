@@ -1,0 +1,6 @@
+overrides:
+  variables:
+    - name: 2wd
+      type: String
+      value: "2"
+      required: false
