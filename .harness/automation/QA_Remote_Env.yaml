@@ -1,0 +1,6 @@
+environment:
+  name: QA_Remote_Env
+  identifier: QA_Remote_Env
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  type: Production
