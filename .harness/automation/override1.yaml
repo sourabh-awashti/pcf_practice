@@ -1,6 +1,6 @@
 overrides:
   variables:
-    - name: 2wd
+    - name: <+input>
       type: String
       value: "2"
       required: false
