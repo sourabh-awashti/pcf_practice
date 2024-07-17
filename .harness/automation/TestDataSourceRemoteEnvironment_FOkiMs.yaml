@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_FOkiMs
+  projectIdentifier: TestDataSourceRemoteEnvironment_FOkiMs
+  identifier: TestDataSourceRemoteEnvironment_FOkiMs
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_FOkiMs
+  type: PreProduction
