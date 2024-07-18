@@ -1,5 +1,5 @@
 pipeline:
-  name: demo-12
+  name: demo-12ee
   identifier: demo1
   projectIdentifier: Gitx
   orgIdentifier: default
