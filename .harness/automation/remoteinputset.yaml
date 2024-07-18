@@ -1,10 +1,10 @@
 inputSet:
-  name: Remote-input-set2dedqdqw
+  name: Remote-input-set
   identifier: Remoteinputset
   orgIdentifier: default
   projectIdentifier: Gitx
   pipeline:
-    identifier: dummysqsdqdqremo1
+    identifier: dummyremo1
     stages:
       - stage:
           identifier: s1
