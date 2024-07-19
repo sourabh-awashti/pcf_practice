@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_CkMnoh
+  projectIdentifier: TestDataSourceRemoteEnvironment_CkMnoh
+  identifier: TestDataSourceRemoteEnvironment_CkMnoh
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_CkMnoh
+  type: PreProduction
