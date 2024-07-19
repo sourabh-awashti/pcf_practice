@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ky_5fN
+  projectIdentifier: TestDataSourceRemoteEnvironment_ky_5fN
+  identifier: TestDataSourceRemoteEnvironment_ky_5fN
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ky_5fN
+  type: PreProduction
