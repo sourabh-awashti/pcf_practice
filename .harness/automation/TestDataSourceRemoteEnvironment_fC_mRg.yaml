@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_fC_mRg
+  projectIdentifier: TestDataSourceRemoteEnvironment_fC_mRg
+  identifier: TestDataSourceRemoteEnvironment_fC_mRg
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_fC_mRg
+  type: PreProduction
