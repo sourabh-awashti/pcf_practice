@@ -1,5 +1,5 @@
 pipeline:
-  name: Remote-local-1
+  name: Remote-local-2
   identifier: Remotelocal1
   projectIdentifier: Gitx
   orgIdentifier: default
