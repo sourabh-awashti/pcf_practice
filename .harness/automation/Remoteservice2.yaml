@@ -1,5 +1,5 @@
 service:
-  name: Remote-service-2q
+  name: Remote-service-2
   identifier: Remoteservice2
   orgIdentifier: default
   projectIdentifier: Gitx
