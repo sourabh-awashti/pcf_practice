@@ -1,6 +1,6 @@
 overrides:
   variables:
-    - name: s
+    - name: ss
       type: String
       value: s
       required: false
