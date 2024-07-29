@@ -1,5 +1,5 @@
 pipeline:
-  name: Local-remote-32
+  name: Local-remote-3
   identifier: Localremote3
   projectIdentifier: Gitx
   orgIdentifier: default
