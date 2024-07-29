@@ -1,6 +1,7 @@
 environment:
   name: Local-remote-env-1
   identifier: Localremoteenv1
+  tags: {}
+  type: Production
   orgIdentifier: default
   projectIdentifier: Gitx
-  type: PreProduction
