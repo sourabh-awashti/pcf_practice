@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_TIJaSF
+  projectIdentifier: TestDataSourceRemoteEnvironment_TIJaSF
+  identifier: TestDataSourceRemoteEnvironment_TIJaSF
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_TIJaSF
+  type: PreProduction
