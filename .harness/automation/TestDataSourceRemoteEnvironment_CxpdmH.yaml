@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_CxpdmH
+  projectIdentifier: TestDataSourceRemoteEnvironment_CxpdmH
+  identifier: TestDataSourceRemoteEnvironment_CxpdmH
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_CxpdmH
+  type: PreProduction
