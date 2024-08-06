@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_24pWam
+  projectIdentifier: TestDataSourceRemoteEnvironment_24pWam
+  identifier: TestDataSourceRemoteEnvironment_24pWam
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_24pWam
+  type: PreProduction
