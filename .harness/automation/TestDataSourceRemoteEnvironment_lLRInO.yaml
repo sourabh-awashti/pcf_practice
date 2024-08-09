@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_lLRInO
+  projectIdentifier: TestDataSourceRemoteEnvironment_lLRInO
+  identifier: TestDataSourceRemoteEnvironment_lLRInO
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_lLRInO
+  type: PreProduction
