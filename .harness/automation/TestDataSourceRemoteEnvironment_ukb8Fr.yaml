@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ukb8Fr
+  projectIdentifier: TestDataSourceRemoteEnvironment_ukb8Fr
+  identifier: TestDataSourceRemoteEnvironment_ukb8Fr
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ukb8Fr
+  type: PreProduction
