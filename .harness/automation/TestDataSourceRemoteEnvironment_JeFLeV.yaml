@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_JeFLeV
+  projectIdentifier: TestDataSourceRemoteEnvironment_JeFLeV
+  identifier: TestDataSourceRemoteEnvironment_JeFLeV
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_JeFLeV
+  type: PreProduction
