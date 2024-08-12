@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_jplrne
+  projectIdentifier: TestDataSourceRemoteEnvironment_jplrne
+  identifier: TestDataSourceRemoteEnvironment_jplrne
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_jplrne
+  type: PreProduction
