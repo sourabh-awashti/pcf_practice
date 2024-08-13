@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_Uw__Cf
+  projectIdentifier: TestDataSourceRemoteEnvironment_Uw__Cf
+  identifier: TestDataSourceRemoteEnvironment_Uw__Cf
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_Uw__Cf
+  type: PreProduction
