@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_OmQWMw
+  projectIdentifier: TestDataSourceRemoteEnvironment_OmQWMw
+  identifier: TestDataSourceRemoteEnvironment_OmQWMw
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_OmQWMw
+  type: PreProduction
