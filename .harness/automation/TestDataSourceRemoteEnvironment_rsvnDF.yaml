@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_rsvnDF
+  projectIdentifier: TestDataSourceRemoteEnvironment_rsvnDF
+  identifier: TestDataSourceRemoteEnvironment_rsvnDF
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_rsvnDF
+  type: PreProduction
