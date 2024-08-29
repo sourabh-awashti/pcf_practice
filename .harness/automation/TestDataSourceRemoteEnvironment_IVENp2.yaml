@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_IVENp2
+  projectIdentifier: TestDataSourceRemoteEnvironment_IVENp2
+  identifier: TestDataSourceRemoteEnvironment_IVENp2
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_IVENp2
+  type: PreProduction
