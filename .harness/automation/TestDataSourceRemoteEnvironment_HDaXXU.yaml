@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_HDaXXU
+  projectIdentifier: TestDataSourceRemoteEnvironment_HDaXXU
+  identifier: TestDataSourceRemoteEnvironment_HDaXXU
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_HDaXXU
+  type: PreProduction
