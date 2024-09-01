@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_yptlwO
+  projectIdentifier: TestDataSourceRemoteEnvironment_yptlwO
+  identifier: TestDataSourceRemoteEnvironment_yptlwO
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_yptlwO
+  type: PreProduction
