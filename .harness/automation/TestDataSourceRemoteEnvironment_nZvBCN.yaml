@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_nZvBCN
+  projectIdentifier: TestDataSourceRemoteEnvironment_nZvBCN
+  identifier: TestDataSourceRemoteEnvironment_nZvBCN
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_nZvBCN
+  type: PreProduction
