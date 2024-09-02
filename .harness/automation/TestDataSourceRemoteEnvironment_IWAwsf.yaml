@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_IWAwsf
+  projectIdentifier: TestDataSourceRemoteEnvironment_IWAwsf
+  identifier: TestDataSourceRemoteEnvironment_IWAwsf
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_IWAwsf
+  type: PreProduction
