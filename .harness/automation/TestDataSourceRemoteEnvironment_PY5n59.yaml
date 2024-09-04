@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_PY5n59
+  projectIdentifier: TestDataSourceRemoteEnvironment_PY5n59
+  identifier: TestDataSourceRemoteEnvironment_PY5n59
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_PY5n59
+  type: PreProduction
