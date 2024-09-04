@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_JDmots
+  projectIdentifier: TestDataSourceRemoteEnvironment_JDmots
+  identifier: TestDataSourceRemoteEnvironment_JDmots
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_JDmots
+  type: PreProduction
