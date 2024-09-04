@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_ExuVOs
+  projectIdentifier: TestDataSourceRemoteEnvironment_ExuVOs
+  identifier: TestDataSourceRemoteEnvironment_ExuVOs
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_ExuVOs
+  type: PreProduction
