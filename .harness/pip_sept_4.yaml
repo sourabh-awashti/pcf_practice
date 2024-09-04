@@ -9,7 +9,7 @@ pipeline:
         name: wdew
         identifier: wdew
         description: ""
-        type: Approval
+        ty: Approval
         spec:
           execution:
             steps:
