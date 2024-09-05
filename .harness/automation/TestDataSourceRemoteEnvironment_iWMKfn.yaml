@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_iWMKfn
+  projectIdentifier: TestDataSourceRemoteEnvironment_iWMKfn
+  identifier: TestDataSourceRemoteEnvironment_iWMKfn
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_iWMKfn
+  type: PreProduction
