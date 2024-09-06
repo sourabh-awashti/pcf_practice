@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_35_Akx
+  projectIdentifier: TestDataSourceRemoteEnvironment_35_Akx
+  identifier: TestDataSourceRemoteEnvironment_35_Akx
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_35_Akx
+  type: PreProduction
