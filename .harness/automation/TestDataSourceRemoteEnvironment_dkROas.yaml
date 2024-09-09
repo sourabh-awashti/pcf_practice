@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_dkROas
+  projectIdentifier: TestDataSourceRemoteEnvironment_dkROas
+  identifier: TestDataSourceRemoteEnvironment_dkROas
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_dkROas
+  type: PreProduction
