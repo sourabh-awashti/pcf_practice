@@ -1,0 +1,25 @@
+template:
+  name: pipetemp
+  identifier: pipetemp
+  versionLabel: v1
+  type: Pipeline
+  projectIdentifier: AmitTest
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  tags: {}
+  spec:
+    stages:
+      - stage:
+          name: st2
+          identifier: st2
+          tags: {}
+          template:
+            templateRef: inlinetemp
+            versionLabel: v1
+      - stage:
+          name: st1
+          identifier: st1
+          tags: {}
+          template:
+            templateRef: remotetemp
+            versionLabel: v1
+    allowStageExecutions: true
