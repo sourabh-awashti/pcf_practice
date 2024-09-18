@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_EZQcmd
+  projectIdentifier: TestDataSourceRemoteEnvironment_EZQcmd
+  identifier: TestDataSourceRemoteEnvironment_EZQcmd
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_EZQcmd
+  type: PreProduction
