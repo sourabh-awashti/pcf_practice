@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_wyLC86
+  projectIdentifier: TestDataSourceRemoteEnvironment_wyLC86
+  identifier: TestDataSourceRemoteEnvironment_wyLC86
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_wyLC86
+  type: PreProduction
