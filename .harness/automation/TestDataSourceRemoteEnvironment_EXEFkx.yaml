@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_EXEFkx
+  projectIdentifier: TestDataSourceRemoteEnvironment_EXEFkx
+  identifier: TestDataSourceRemoteEnvironment_EXEFkx
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_EXEFkx
+  type: PreProduction
