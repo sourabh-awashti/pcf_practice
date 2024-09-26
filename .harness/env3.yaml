@@ -1,0 +1,6 @@
+environment:
+  name: env-3
+  identifier: env3
+  type: Production
+  orgIdentifier: default
+  storeType: REMOTE
