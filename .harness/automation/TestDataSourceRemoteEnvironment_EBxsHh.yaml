@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_EBxsHh
+  projectIdentifier: TestDataSourceRemoteEnvironment_EBxsHh
+  identifier: TestDataSourceRemoteEnvironment_EBxsHh
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_EBxsHh
+  type: PreProduction
