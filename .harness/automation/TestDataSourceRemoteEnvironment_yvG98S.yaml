@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_yvG98S
+  projectIdentifier: TestDataSourceRemoteEnvironment_yvG98S
+  identifier: TestDataSourceRemoteEnvironment_yvG98S
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_yvG98S
+  type: PreProduction
