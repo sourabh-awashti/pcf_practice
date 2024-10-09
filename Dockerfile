@@ -7,10 +7,6 @@ WORKDIR /app
 # Copy the current directory contents into the container at /app
 COPY . /app
 
-LABEL maintainer="yourname@example.com"
-LABEL version="1.0"
-LABEL description="This is a sample Docker image with labels."
-
 
 # Run hello.py when the container launches
 CMD ["python", "hello.py"]
