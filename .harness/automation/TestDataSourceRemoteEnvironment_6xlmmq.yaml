@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_6xlmmq
+  projectIdentifier: TestDataSourceRemoteEnvironment_6xlmmq
+  identifier: TestDataSourceRemoteEnvironment_6xlmmq
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_6xlmmq
+  type: PreProduction
