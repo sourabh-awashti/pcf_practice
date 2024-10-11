@@ -1,0 +1,7 @@
+environment:
+  orgIdentifier: TestDataSourceRemoteEnvironment_XxFDhg
+  projectIdentifier: TestDataSourceRemoteEnvironment_XxFDhg
+  identifier: TestDataSourceRemoteEnvironment_XxFDhg
+  tags: {}
+  name: TestDataSourceRemoteEnvironment_XxFDhg
+  type: PreProduction
