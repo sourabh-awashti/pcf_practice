@@ -1,0 +1,12 @@
+environment:
+  name: env-6
+  identifier: env6
+  type: Production
+  orgIdentifier: default
+  variables:
+    - name: ccc
+      type: String
+      value: ccc
+      description: ""
+      required: false
+  storeType: REMOTE

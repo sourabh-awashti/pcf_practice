@@ -1,0 +1,9 @@
+pipeline:
+  name: stagesExecutionwithTemplate
+  identifier: stagesExecutionwithTemplate
+  tags: {}
+  template:
+    templateRef: pipetemp
+    versionLabel: v1
+  projectIdentifier: AmitTest
+  orgIdentifier: Pipelines_NonK8s_Org_NG

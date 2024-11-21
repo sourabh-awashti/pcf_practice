@@ -1,0 +1,155 @@
+template:
+  name: pipelineTemplateTestmainpatch
+  identifier: pipelineTemplateTestmainpatch
+  versionLabel: "1"
+  type: Pipeline
+  projectIdentifier: AmitTest
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  tags: {}
+  spec:
+    stages:
+      - stage:
+          name: stages1
+          identifier: stages1
+          tags: {}
+          template:
+            templateRef: stage11
+            versionLabel: "1"
+            gitBranch: bug-bash-1
+      - stage:
+          name: gfd
+          identifier: gfd
+          tags: {}
+          template:
+            templateRef: stage1111
+            versionLabel: "1"
+            gitBranch: bug-bash-1
+      - stage:
+          name: stages2
+          identifier: stages2
+          tags: {}
+          template:
+            templateRef: stage2a
+            versionLabel: a
+            gitBranch: bug-bash-2-a
+      - stage:
+          name: tr
+          identifier: tr
+          tags: {}
+          template:
+            templateRef: stage22
+            versionLabel: "2"
+            gitBranch: bug-bash-2
+      - stage:
+          name: rt
+          identifier: rt
+          tags: {}
+          template:
+            templateRef: stage3333
+            versionLabel: "1"
+            gitBranch: bug-bash-3
+      - stage:
+          name: stage4
+          identifier: stage4
+          tags: {}
+          template:
+            templateRef: stage44
+            versionLabel: "4"
+            gitBranch: bug-bash-4
+      - stage:
+          name: we
+          identifier: we
+          tags: {}
+          template:
+            templateRef: stage55
+            versionLabel: "55"
+            gitBranch: bug-bash-5
+      - stage:
+          name: er
+          identifier: er
+          tags: {}
+          template:
+            templateRef: stage666
+            versionLabel: "6"
+            gitBranch: bug-bash-6
+      - stage:
+          name: ret
+          identifier: ret
+          tags: {}
+          template:
+            templateRef: stages110
+            versionLabel: "1"
+            gitBranch: bug-bash-110
+      - stage:
+          name: re
+          identifier: re
+          tags: {}
+          template:
+            templateRef: stages111
+            versionLabel: "1"
+            gitBranch: bug-bash-111
+      - stage:
+          name: rte
+          identifier: rte
+          tags: {}
+          template:
+            templateRef: stagesgitx1
+            versionLabel: "1"
+            gitBranch: gitx-1
+      - stage:
+          name: tre
+          identifier: tre
+          tags: {}
+          template:
+            templateRef: stagesgitx2
+            versionLabel: "2"
+            gitBranch: gitx-2
+      - stage:
+          name: et
+          identifier: et
+          tags: {}
+          template:
+            templateRef: stagesgitx3
+            versionLabel: "3"
+            gitBranch: gitx-3
+      - stage:
+          name: yt
+          identifier: yt
+          tags: {}
+          template:
+            templateRef: stagesgitx3
+            versionLabel: "3"
+            gitBranch: gitx-3
+      - stage:
+          name: rty
+          identifier: rty
+          tags: {}
+          template:
+            templateRef: stagesgitx4patch
+            versionLabel: "1"
+            gitBranch: gitx-4-patch
+      - stage:
+          name: ewr
+          identifier: ewr
+          tags: {}
+          template:
+            templateRef: stagesgitx4
+            versionLabel: "4"
+            gitBranch: gitx-4
+      - stage:
+          name: trtr
+          identifier: trtr
+          tags: {}
+          template:
+            templateRef: stagesic1
+            versionLabel: "1"
+            gitBranch: lc-1
+      - stage:
+          name: rwerwer
+          identifier: rwerwer
+          tags: {}
+          template:
+            templateRef: stagesic2
+            versionLabel: "2"
+            gitBranch: lc-2
+    allowStageExecutions: true
