@@ -1,0 +1,12 @@
+environment:
+  name: env-5
+  identifier: env5
+  type: Production
+  orgIdentifier: default
+  variables:
+    - name: c
+      type: String
+      value: c
+      description: ""
+      required: false
+  storeType: REMOTE
